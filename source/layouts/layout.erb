@@ -26,9 +26,6 @@
     <meta name="theme-color" content="#a4cdfa">
     <link rel="alternate" type="application/rss+xml" title="RSS" href='<%= "#{config[:site_url]}/rss.xml" %>' />
     <link rel='preload' href='<%= url_for "/stylesheets/site.css" %>' as='style' onload='this.onload=null;this.rel="stylesheet"'>
-    <script type="text/javascript">
-
-    </script>
   </head>
   <body>
     <%= yield %>
