@@ -32,6 +32,6 @@
     <script type="text/javascript">
       WebFontConfig={google:{families:["Overpass:400,700","Permanent+Marker"]}},function(e){var t=e.createElement("script"),a=e.scripts[0];t.src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",t.async=!0,a.parentNode.insertBefore(t,a)}(document),function(e){"use strict";e.loadCSS||(e.loadCSS=function(){});var t=loadCSS.relpreload={};if(t.support=function(){var t;try{t=e.document.createElement("link").relList.supports("preload")}catch(e){t=!1}return function(){return t}}(),t.bindMediaToggle=function(e){var t=e.media||"all";function a(){e.media=t}e.addEventListener?e.addEventListener("load",a):e.attachEvent&&e.attachEvent("onload",a),setTimeout(function(){e.rel="stylesheet",e.media="only x"}),setTimeout(a,3e3)},t.poly=function(){if(!t.support())for(var a=e.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),t.bindMediaToggle(o))}},!t.support()){t.poly();var a=e.setInterval(t.poly,500);e.addEventListener?e.addEventListener("load",function(){t.poly(),e.clearInterval(a)}):e.attachEvent&&e.attachEvent("onload",function(){t.poly(),e.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:e.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
     </script>
-    <%= javascript_include_tag "site" %>
+    <%= javascript_include_tag "site", async: true %>
   </body>
 </html>
