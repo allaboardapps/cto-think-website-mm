@@ -1,0 +1,87 @@
+---
+id: 9
+title: Developer focus is an excuse not to talk, right?
+date: 2018/02/10 3:00:00PM
+audio_file_name: cto_think_episode_0009.mp3
+soundcloud_link: 'http://feeds.soundcloud.com/stream/9.mp3'
+guid: 'https://s3.amazonaws.com/cto-think-podcast-assets/cto_think_episode_0009.mp3'
+duration: '00:46:58'
+file_size_bytes: 56000000
+file_type: audio/mpeg
+keywords: focus, open office, interruptions, conversation, communication, developers, cto, management
+explicit: no
+block: no
+published: true
+---
+
+Is the call for "developer focus" a selfish complaint from precious snowflake employees? What right do developers have to ruin the design trend of great-looking open offices where collaboration magically happens? This week, we discuss how we feel about the need for managers to talk to employees at all times vs the need for folks to get work done without interruption.
+
+READMORE
+
+#### Notes
+
+* Randy has a potential client for Fractional CTO work, meaning a consultant working in a part-time CTO role for their startup
+* Don discusses the University of Florida incubators, Sid Martin Bio tech institues, and two buildings off-campus for an innovation hub/co-working space
+* Randy mentions that Northwestern University has its own incubator space, called The Garage, which is taking charge of the community they have, energetic students, and supporting them with programs around entreprenuership
+* Research at the university level and research in the entreprenuerial community are not all that different, at least in what they aim to produce in the end: products, patents, and licenses
+* The ability for any employee to have quiet-time, control of their environment, that does not interrupt their train of thought and work-in-progress
+* The ability to chain a number of pieces of work together, along a track of time, without being interrupted by noises, temperature, weather, or other people
+* It takes people a chunk of time to regain focus after interruption
+* People think that if you increase collaboration, it will help team productivty, but that's questionable logic
+* "The trend for open offices is a result of selfish management practices that think their ability to talk to anyone at any given time supersedes those employees' needs to be focused on work"
+* "Open office's look great, it looks like work is getting done"
+* "The idea that an open office works for everyone is extremely short-sighted."
+* "I would bet that a big part of your team's productivity problems are a result of your ability to constantly interrupt folks on your team"
+* "Slack is anything but a focus-driven tool. It is synchonous communication for the most part."
+* Randy had a lot of respect for a developer that would routinely "go dark" on Slack to get work done
+* Slack does have features that allow a person to "look offline" or avoid notifications
+* Slack is less intrusive than an open cattle-call office space, but it's not that far off on the alert/notification effect
+* The phone was also a synchonous, interruption-based system, but it was easier to not use
+* "Slack is not the reason for the problem. It's not the tools, it's the managers establishing how the team should communicate"
+* The need for developer focus is not new. Joel Spolsky blogged a ton about dev focus and had a sales pitch of giving developers a door to close as a perk.
+* "A good developer doesn't want an office for status, they want it for focus and productivity"
+* "Developers are not asking for privacy and quiet because they are special snowflakes. They are asking for it because they want to meet the deadlines and the needs of the company they work for"
+* My team members get to choose how and when they receive alerts, not me. They get to choose how their focus is managed.
+
+#### Recommendations
+
+* Randy recommends [Netlify](https://www.netlify.com/) for static/single page hosting due to their an easy deployment process
+* Don recommends a book [Red Notice by Bill Browder](https://www.amazon.com/gp/product/1476755744/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476755744&linkCode=as2&tag=allaboardapps-20&linkId=e11cf828a54d9031f294b235c249a071) about one man's attempt to fight back against Russian politics and power
+
+#### Links
+
+* [Clean out your closet of side projects](https://medium.com/@donvandemark/clean-out-your-closet-of-side-projects-81361dd34ead) by Don VanDemark
+* [The new Randy Burgess website](https://www.wrburgess.com)
+* [Using ActiveStorage with UUIDs on Rails 5.2 and PostgreSQL 9+](https://www.wrburgess.com/posts/2018-02-03-1) by 
+* [Bulldog 100](https://alumni.uga.edu/b100/)
+* [UF Sid Martin Biotechnology Institute](http://sidmartinbio.org/beta/)
+* [UF Innovate](http://floridainnovationhub.ufl.edu/)
+* [iBubble: The first autonomous diving drone that follows you and captures beautiful footage, hands-free.](https://ibubble.camera/)
+* [The Garage at Northwestern](https://thegarage.northwestern.edu)
+* [Interruption is Not Collaboration by Wailin Wong](https://m.signalvnoise.com/interruption-is-not-collaboration-8dfb20731569)
+* [Trello, an asychronus communication tool](https://trello.com)
+Jason Fried of Basecamp
+* [Joel on Software](https://www.joelonsoftware.com/)
+* [Jason Fried on Inc Magazine](https://www.inc.com/author/jason-fried)
+* [Signal vs Noise](https://m.signalvnoise.com/)
+* [Remote: Office not required](https://www.amazon.com/gp/product/0804137501/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137501&linkCode=as2&tag=allaboardapps-20&linkId=e0b1d7fb96a5a922d2eea1a99ac209e7)
+* [The Calm Company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457) an upcoming book by the folks at Basecamp
+* Patreon: [CTO Think Podcast is creating Episode Transcripts for Accessiblity](https://www.patreon.com/ctothink)
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
