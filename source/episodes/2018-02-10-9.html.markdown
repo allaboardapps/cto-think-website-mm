@@ -52,7 +52,7 @@ READMORE
 
 * [Clean out your closet of side projects](https://medium.com/@donvandemark/clean-out-your-closet-of-side-projects-81361dd34ead) by Don VanDemark
 * [The new Randy Burgess website](https://www.wrburgess.com)
-* [Using ActiveStorage with UUIDs on Rails 5.2 and PostgreSQL 9+](https://www.wrburgess.com/posts/2018-02-03-1) by 
+* [Using ActiveStorage with UUIDs on Rails 5.2 and PostgreSQL 9+](https://www.wrburgess.com/posts/2018-02-03-1) by Randy Burgess
 * [Bulldog 100](https://alumni.uga.edu/b100/)
 * [UF Sid Martin Biotechnology Institute](http://sidmartinbio.org/beta/)
 * [UF Innovate](http://floridainnovationhub.ufl.edu/)
