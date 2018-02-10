@@ -27,16 +27,16 @@ READMORE
 * The ability for any employee to have quiet-time, control of their environment, that does not interrupt their train of thought and work-in-progress
 * The ability to chain a number of pieces of work together, along a track of time, without being interrupted by noises, temperature, weather, or other people
 * It takes people a chunk of time to regain focus after interruption
-* People think that if you increase collaboration, it will help team productivty, but that's questionable logic
+* People think that if you increase collaboration, it will help team productivity, but that's questionable logic
 * "The trend for open offices is a result of selfish management practices that think their ability to talk to anyone at any given time supersedes those employees' needs to be focused on work"
-* "Open office's look great, it looks like work is getting done"
+* "Open offices look great, it looks like work is getting done"
 * "The idea that an open office works for everyone is extremely short-sighted."
 * "I would bet that a big part of your team's productivity problems are a result of your ability to constantly interrupt folks on your team"
-* "Slack is anything but a focus-driven tool. It is synchonous communication for the most part."
+* "Slack is anything but a focus-driven tool. It is synchronous communication for the most part."
 * Randy had a lot of respect for a developer that would routinely "go dark" on Slack to get work done
 * Slack does have features that allow a person to "look offline" or avoid notifications
 * Slack is less intrusive than an open cattle-call office space, but it's not that far off on the alert/notification effect
-* The phone was also a synchonous, interruption-based system, but it was easier to not use
+* The phone was also a synchronous, interruption-based system, but it was easier to not use
 * "Slack is not the reason for the problem. It's not the tools, it's the managers establishing how the team should communicate"
 * The need for developer focus is not new. Joel Spolsky blogged a ton about dev focus and had a sales pitch of giving developers a door to close as a perk.
 * "A good developer doesn't want an office for status, they want it for focus and productivity"
