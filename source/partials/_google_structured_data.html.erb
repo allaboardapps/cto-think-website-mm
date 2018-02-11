@@ -9,7 +9,14 @@
         "https://www.facebook.com/ctothink",
         "https://www.linkedin.com/in/ctothink",
         "https://twitter.com/ctothink"
-      ]
+      ],
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+1-773-551-6808",
+        "contactType": "customer service",
+        "availableLanguage": "English",
+        "areaServed": "US"
+      }]
     },
     {
       "@context": "http://schema.org",
@@ -118,6 +125,28 @@
         }
       },
       "description": "<%= current_page.data.short_description %>"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "<%= config[:site_url] %>",
+            "name": "<%= config[:site_name] %>"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.ctothink.com<%= current_page.url %>",
+            "name": "Episode <%= current_page.data.id %>"
+          }
+        }
+      ]
     }]
   <% end %>
 </script>
