@@ -15,9 +15,7 @@ block: 'no'
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-
 Welcome to CTO Think, a podcast about how technology leaders think about business, tech, and people problems. Don VanDemark and Randy Burgess, two current and former Chief Technology Officers will discuss the various challenges managers face in a product development environment. We'll cover topics such as team-building, product management, scaling, and software engineering decisions.
-
 READMORE
 
 #### Notes

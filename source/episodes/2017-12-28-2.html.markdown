@@ -15,9 +15,7 @@ block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-
 Randy was posed a question by a potential client: "I want to build an app. Who should I hire?" and he asks the same question to Don.
-
 READMORE
 
 #### Notes
