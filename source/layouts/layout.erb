@@ -15,18 +15,17 @@
     </title>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="<%= config[:site_description] %>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta content="<%= config[:site_keywords] %>" name="keywords">
+    <meta name="description" content="<%= current_page.data.short_description || config[:site_description] %>">
+    <meta name="keywords" content="<%= config[:site_keywords] %>">
     <meta content="<%= config[:site_url] %>" property="og:url">
     <meta content="website" property="og:type">
     <meta content="<%= config[:site_name] %>" property="og:site_name">
-    <meta content="<%= config[:current_page.data.title] %>" property="og:title">
-    <meta content="<%= config[:site_description] %>" property="og:description">
+    <meta content="<%= current_page.data.title %>" property="og:title">
+    <meta content="<%= current_page.data.short_description || config[:site_description] %>" property="og:description">
     <meta content="<%= config[:image_url] %>" property="og:image">
     <meta content="3000" property="og:image:width">
     <meta content="3000" property="og:image:height">
-
     <link rel="manifest" href="/manifest.json">
     <link rel="apple-touch-icon" sizes="180x180" href="<%= image_path('apple-touch-icon.png') %>">
     <link rel="icon" type="image/png" sizes="32x32" href="<%= image_path('favicon-32x32.png') %>">
