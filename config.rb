@@ -8,6 +8,7 @@ Time.zone = "America/New_York"
 
 # Global Variables
 set :site_description, "A pragmatic podcast about leadership, product dev, and tech decisions between two recovering Chief Technology Officers."
+set :site_keywords, "chief technology officer, business, management, technology, leadership, development, Don VanDemark, Randy Burgess"
 set :site_name, "CTO Think"
 set :author, "CTO Think"
 set :site_acronym, "CTOT"
