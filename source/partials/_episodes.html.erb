@@ -1,16 +1,17 @@
 <h2>Previous Episodes</h2>
 <ul>
-<% blog.articles.each_with_index do |article, index| %>
-  <% if index != 0 %>
-    <li>
-      <a href="<%= article.url %>" class="webpage">
-        <%= "Episode #{article.data.id}: #{article.title}" %>
-      </a>
-      <div class="pub-date">
-        <span class="label">Published:</span>&nbsp;
-        <%= article.date.strftime("%A, %B %e, %Y") %>
-      </div>
-      <%= article.summary %>
-    </li>
+  <% blog.articles.each_with_index do |article, index| %>
+    <% if index != 0 %>
+      <li>
+        <a href="<%= article.url %>" class="webpage">
+          <%= "Episode #{article.data.id}: #{article.title}" %>
+        </a>
+        <div class="pub-date">
+          <span class="label">Published:</span>&nbsp;
+          <%= article.date.strftime("%A, %B %e, %Y") %>
+        </div>
+        <%= article.summary %>
+      </li>
+    <% end %>
   <% end %>
-<% end %>
+</ul>
