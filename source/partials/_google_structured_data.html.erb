@@ -67,13 +67,14 @@
       "@type": "AudioObject",
       "contentUrl": "<%= current_page.data.soundcloud_link %>",
       "contentSize": "<%= current_page.data.file_size_bytes %>",
-      "uploadDate": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+      "uploadDate": "<%= current_page.date.iso8601 %>",
       "associatedArticle": {
+        "@type": "NewsArticle",
         "headline": "<%= current_page.title %>",
         "url": "https://www.ctothink.com<%= current_page.url %>",
         "author": "<%= config[:author] %>",
-        "datePublished": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
-        "dateModified": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+        "datePublished": "<%= current_page.date.iso8601 %>",
+        "dateModified": "<%= current_page.date.iso8601 %>",
         "image": "<%= config[:image_url] %>",
         "publisher": {
           "@context": "http://schema.org",
@@ -121,8 +122,8 @@
       "image": [
         "<%= config[:image_url] %>"
       ],
-      "datePublished": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
-      "dateModified": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+      "datePublished": "<%= current_page.date.iso8601 %>",
+      "dateModified": "<%= current_page.date.iso8601 %>",
       "author": {
         "@type": "Person",
         "name": "Randy Burgess and Don VanDemark"
