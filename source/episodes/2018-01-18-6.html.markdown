@@ -12,6 +12,7 @@ keywords: cto, technical manager, coding, python, django, patreon, transcripts
 explicit: no
 block: no
 published: true
+featuring: 'Randy Burgess and Don VanDemark'
 ---
 
 Randy is a CTO that codes almost daily. Don has found it difficult to string together multiple days where he's able to code for his current roles. Today, we tackle the topic of whether a CTO or technical manager needs to be able to code to be effective at their job.

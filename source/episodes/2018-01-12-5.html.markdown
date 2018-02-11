@@ -12,6 +12,7 @@ keywords: chaos, business, Netflix, Amazon Web Services, test driven development
 explicit: no
 block: no
 published: true
+featuring: 'Randy Burgess and Don VanDemark'
 ---
 
 Don brings up the subject of chaos, based on a book he's been reading, Antifragile, by Nassim Nicholas Taleb. We discuss the merits of test driven development, unpredictability, and how technical managers can work towards a more resilient product in the face of inevitable failures.

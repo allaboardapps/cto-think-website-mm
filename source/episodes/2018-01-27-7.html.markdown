@@ -12,6 +12,7 @@ keywords: cto, technical manager, self-learning, work-life, non-tech, balance, 9
 explicit: no
 block: no
 published: true
+featuring: 'Randy Burgess and Don VanDemark'
 ---
 
 We discuss the importance of a work-life or non-tech balance for someone building a career in technology. Do folks need to set aside a specific amount of time, or any at all, not working on things related to their job?

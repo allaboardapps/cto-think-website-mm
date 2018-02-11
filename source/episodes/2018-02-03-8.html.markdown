@@ -12,6 +12,7 @@ keywords: self-hosted, managed hosting, cloud hosting, serverless, aws, google c
 explicit: no
 block: no
 published: true
+featuring: 'Randy Burgess and Don VanDemark'
 ---
 
 How do you choose the best hosting options for your product or firm? This week, we discuss the thinking in a choice between self-hosting, managed hosting, cloud options, and the new buzz word: "serverless".
