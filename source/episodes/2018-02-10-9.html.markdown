@@ -38,7 +38,7 @@ READMORE
 * Randy had a lot of respect for a developer that would routinely "go dark" on Slack to get work done
 * Slack does have features that allow a person to "look offline" or avoid notifications
 * Slack is less intrusive than an open cattle-call office space, but it's not that far off on the alert/notification effect
-* The phone was also a synchronous, interruption-based system, but it was easier to not use
+* The phone was also synchronous, and interruption-based system, but it was easier to avoid
 * "Slack is not the reason for the problem. It's not the tools, it's the managers establishing how the team should communicate"
 * The need for developer focus is not new. Joel Spolsky blogged a ton about dev focus and had a sales pitch of giving developers a door to close as a perk.
 * "A good developer doesn't want an office for status, they want it for focus and productivity"
