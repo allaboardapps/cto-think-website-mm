@@ -53,7 +53,7 @@
     "@type": "AudioObject",
     "contentUrl": "<%= current_page.data.soundcloud_link %>",
     "contentSize": "<%= current_page.data.file_size_bytes %>",
-    "uploadDate": "<%= current_page.data.file_size_bytes %>",
+    "uploadDate": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
     "associatedArticle": {
       "headline": "<%= current_page.title %>",
       "author": "<%= config[:author] %>",
