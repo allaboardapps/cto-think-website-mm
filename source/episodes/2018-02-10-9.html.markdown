@@ -12,6 +12,7 @@ keywords: focus, open office, interruptions, conversation, communication, develo
 explicit: no
 block: no
 published: true
+featuring: 'Randy Burgess and Don VanDemark'
 ---
 
 Is the call for "developer focus" a selfish complaint from precious snowflake employees? What right do developers have to ruin the design trend of great-looking open offices where collaboration magically happens? This week, we discuss how we feel about the need for managers to talk to employees at all times vs the need for folks to get work done without interruption.
