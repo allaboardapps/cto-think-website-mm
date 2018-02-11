@@ -40,7 +40,7 @@
       ]
     }]
   <% else %>
-    {
+    [{
       "@context": "http://schema.org",
       "@type": "AudioObject",
       "contentUrl": "<%= current_page.data.soundcloud_link %>",
@@ -86,6 +86,38 @@
       "keywords": "<%= current_page.data.keywords %>",
       "position": <%= current_page.data.id %>,
       "image": "<%= config[:image_url] %>"
-    }
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.ctothink.com<%= current_page.url %>"
+      },
+      "headline": "<%= current_page.title %>",
+      "image": [
+        "<%= config[:image_url] %>"
+      ],
+      "datePublished": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+      "dateModified": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+      "author": {
+        "@type": "Person",
+        "name": "Randy Burgess and Don VanDemark"
+      },
+      "publisher": {
+        "@context": "http://schema.org",
+        "@type" : "Organization",
+        "name": "<%= config[:author] %>",
+        "url" : "https://www.ctothink.com",
+        "email": "hello@ctothink.com",
+        "telephone": "773-551-6808",
+        "logo": {
+          "@type": "ImageObject",
+          "caption": "<%= config[:author] %> Logo",
+          "url": "<%= config[:image_url] %>"
+        }
+      },
+      "description": "<%= current_page.data.short_description %>"
+    }]
   <% end %>
 </script>
