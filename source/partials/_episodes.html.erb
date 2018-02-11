@@ -1,36 +1,16 @@
-<h2>Episodes</h2>
+<h2>Previous Episodes</h2>
+<ul>
 <% blog.articles.each_with_index do |article, index| %>
-  <h3
-    data-id="<%= article.data.id %>"
-    data-file-src="<%= cdn_file_url(article.data.audio_file_name) %>">
-    <%= "Episode #{article.data.id}: #{article.title}" %>
-  </h3>
-  <div class="episode-body" data-id="<%= article.data.id %>">
-    <div class="pub-date">
-      <span class="label">Published:</span> <%= article.date.strftime("%A, %B %e, %Y") %>
-    </div>
-    <div class="featuring">
-      <span class="label">Featuring:</span> <%= article.data.featuring %>
-    </div>
-    <div class="duration">
-      <span class="label">Duration:</span> <%= article.data.duration %>
-    </div>
-    <div class="file-size">
-      <span class="label">File Size:</span> <%= article.data.file_size_bytes/1000000 %> MB
-    </div>
-    <div class="episode-content">
+  <% if index != 0 %>
+    <li>
+      <a href="<%= article.url %>" class="webpage">
+        <%= "Episode #{article.data.id}: #{article.title}" %>
+      </a>
+      <div class="pub-date">
+        <span class="label">Published:</span>&nbsp;
+        <%= article.date.strftime("%A, %B %e, %Y") %>
+      </div>
       <%= article.summary %>
-    </div>
-    <audio controls>
-      Your browser does not support the audio element.
-    </audio>
-    <ul class="links">
-      <li>
-        <a href="<%= article.url %>" class="webpage">
-          <img data-src='<%= image_path("webpage_icon.svg") %>' width="20" height="20" alt="Website Icon" title="View the Episode Page" />
-          Show Notes / Transcript
-        </a>
-      </li>
-    </ul>
-  </div>
+    </li>
+  <% end %>
 <% end %>

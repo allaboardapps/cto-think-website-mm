@@ -13,7 +13,7 @@ short_description: Discussion about work-life balance and learning new skills on
 explicit: no
 block: no
 published: true
-featuring: 'Randy Burgess and Don VanDemark'
+featuring: 'Randy Burgess, Don VanDemark'
 ---
 
 We discuss the importance of a work-life or non-tech balance for someone building a career in technology. Do folks need to set aside a specific amount of time, or any at all, not working on things related to their job?

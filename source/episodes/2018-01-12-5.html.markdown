@@ -13,7 +13,7 @@ short_description: How does using test-driven-development make a codebase more r
 explicit: no
 block: no
 published: true
-featuring: 'Randy Burgess and Don VanDemark'
+featuring: 'Randy Burgess, Don VanDemark'
 ---
 
 Don brings up the subject of chaos, based on a book he's been reading, Antifragile, by Nassim Nicholas Taleb. We discuss the merits of test driven development, unpredictability, and how technical managers can work towards a more resilient product in the face of inevitable failures.

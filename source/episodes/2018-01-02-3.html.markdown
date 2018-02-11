@@ -13,7 +13,7 @@ short_description: When should a firm slow down and fix old technical issues and
 explicit: no
 block: no
 published: true
-featuring: 'Randy Burgess and Don VanDemark'
+featuring: 'Randy Burgess, Don VanDemark'
 ---
 
 Don faced an issue at his education tech firm: When should you slow down forward progress on new features in order to spend time on festering technical issues?

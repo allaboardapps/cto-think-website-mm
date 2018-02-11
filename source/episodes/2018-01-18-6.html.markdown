@@ -13,17 +13,16 @@ short_description: Talking about the importance of a tech manager actually doing
 explicit: no
 block: no
 published: true
-featuring: 'Randy Burgess and Don VanDemark'
+featuring: 'Randy Burgess, Don VanDemark'
 ---
 
 Randy is a CTO that codes almost daily. Don has found it difficult to string together multiple days where he's able to code for his current roles. Today, we tackle the topic of whether a CTO or technical manager needs to be able to code to be effective at their job.
-
-Thanks to our first [patron](https://www.patreon.com/ctothink), Matthew Bivins, for contributing to the production of the full transcript for this episode.
 
 READMORE
 
 #### Notes
 
+* Thanks to our first [patron](https://www.patreon.com/ctothink), Matthew Bivins, for contributing to the production of the full transcript for this episode.
 * We've launched a Patreon campaign to raise funds for per-episode transcripts
 * Don's AspirEDU team chose to hire a developer that knew Python/Django, which was not in Don's programming skillset
 * It's normal for a manager to lose "closeness with the code" as the firm and product scales
