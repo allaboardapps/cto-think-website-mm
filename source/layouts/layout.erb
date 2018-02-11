@@ -1,47 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=<%= config[:ga_id] %>"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', '<%= config[:ga_id] %>');
-    </script>
-    <title>
-      <%= current_page.data.title == "Home" ? "#{config[:site_name]} | Home" : "#{current_page.data.title} | #{config[:site_name]}" %>
-    </title>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="<%= current_page.data.short_description || config[:site_description] %>">
-    <meta name="keywords" content="<%= current_page.data.keywords || config[:site_keywords] %>">
-    <meta property="og:url" content="<%= "#{config[:site_url]}#{current_page.url}" %>">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="<%= config[:site_name] %>">
-    <meta property="og:title" content="<%= current_page.data.title %>">
-    <meta property="og:description" content="<%= current_page.data.short_description || config[:site_description] %>">
-    <meta property="og:image" content="<%= config[:image_url] %>">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="<%= config[:site_name] %>">
-    <meta name="twitter:image" content="<%= config[:image_url] %>">
-    <meta name="twitter:site" content="<%= config[:twitter_handle] %>">
-    <meta name="yandex-verification" content="20d748a5f7352073" />
-    <meta name="msvalidate.01" content="332ADCC9E2D993407E5001016E4C23CC" />
-    <link rel="manifest" href="/manifest.json">
-    <link rel="canonical" href='<%= "#{config[:site_url]}#{current_page.url}" %>' />
-    <link rel="apple-touch-icon" sizes="180x180" href="<%= image_path('apple-touch-icon.png') %>">
-    <link rel="icon" type="image/png" sizes="32x32" href="<%= image_path('favicon-32x32.png') %>">
-    <link rel="icon" type="image/png" sizes="16x16" href="<%= image_path('favicon-16x16.png') %>">
-    <link rel="icon" type="image/png" sizes="16x16" href="<%= image_path('android-chrome-192x192.png') %>">
-    <link rel="icon" type="image/png" sizes="16x16" href="<%= image_path('android-chrome-512x512.png') %>">
-    <meta name="theme-color" content="#a4cdfa">
-    <link rel="alternate" type="application/rss+xml" title="RSS" href='<%= "#{config[:site_url]}/rss.xml" %>' />
-    <link rel='preload' href='<%= url_for "/stylesheets/site.css" %>' as='style' onload='this.onload=null;this.rel="stylesheet"'>
-    <link rel="dns-prefetch" href="//ajax.googleapis.com">
-    <link rel="dns-prefetch" href="//s3.amazonaws.com">
+    <%= partial "partials/meta_tags" %>
   </head>
   <body>
     <%= yield %>
@@ -49,6 +9,6 @@
       WebFontConfig={google:{families:["Overpass:400,700","Permanent+Marker"]}},function(e){var t=e.createElement("script"),a=e.scripts[0];t.src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",t.async=!0,a.parentNode.insertBefore(t,a)}(document),function(e){"use strict";e.loadCSS||(e.loadCSS=function(){});var t=loadCSS.relpreload={};if(t.support=function(){var t;try{t=e.document.createElement("link").relList.supports("preload")}catch(e){t=!1}return function(){return t}}(),t.bindMediaToggle=function(e){var t=e.media||"all";function a(){e.media=t}e.addEventListener?e.addEventListener("load",a):e.attachEvent&&e.attachEvent("onload",a),setTimeout(function(){e.rel="stylesheet",e.media="only x"}),setTimeout(a,3e3)},t.poly=function(){if(!t.support())for(var a=e.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),t.bindMediaToggle(o))}},!t.support()){t.poly();var a=e.setInterval(t.poly,500);e.addEventListener?e.addEventListener("load",function(){t.poly(),e.clearInterval(a)}):e.attachEvent&&e.attachEvent("onload",function(){t.poly(),e.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:e.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
     </script>
     <%= javascript_include_tag "site", async: true %>
-    <%= partial "partials/google_structured_data" %>
+    <%= partial "partials/_structured_data" %>
   </body>
 </html>
