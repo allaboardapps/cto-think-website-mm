@@ -9,6 +9,7 @@ Time.zone = "America/New_York"
 # Global Variables
 set :site_description, "A pragmatic podcast about leadership, product dev, and tech decisions between two recovering Chief Technology Officers."
 set :site_name, "CTO Think"
+set :author, "CTO Think"
 set :site_acronym, "CTOT"
 set :site_email, "hello@ctothink.com"
 set :site_url, "https://www.ctothink.com"
@@ -16,6 +17,9 @@ set :cdn_url, "https://s3.amazonaws.com/cto-think-podcast-assets"
 set :unsafe_cdn_url, "http://s3.amazonaws.com/cto-think-podcast-assets"
 set :site_copyright, "© 2017-2018 CTO Think. All Rights Reserved."
 set :ga_id, "UA-111873195-1"
+set :genre, "http://vocab.getty.edu/aat/300056069"
+set :image_url, "https://s3.amazonaws.com/cto-think-podcast-assets/cto-think-logo-itunes.jpg"
+
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"

@@ -9,6 +9,7 @@ duration: '00:33:48'
 file_size_bytes: 40001623
 file_type: audio/mpeg
 keywords: chaos, business, Netflix, Amazon Web Services, test driven development, tdd, testing
+short_description: How does using test-driven-development make a codebase more resilient?
 explicit: no
 block: no
 published: true

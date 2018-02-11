@@ -9,6 +9,7 @@ duration: '00:04:51'
 file_size_bytes: 6002542
 file_type: audio/mpeg
 keywords: technology, business, introduction, CTO, Don VanDemark, Randy Burgess
+short_description: Introducing our new podcast, CTO Think
 explicit: 'no'
 block: 'no'
 published: true

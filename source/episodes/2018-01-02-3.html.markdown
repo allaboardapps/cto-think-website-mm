@@ -9,6 +9,7 @@ duration: '00:28:11'
 file_size_bytes: 54123125
 file_type: audio/mpeg
 keywords: technology, business, technical debt, prioritizing, project management, product management
+short_description: When should a firm slow down and fix old technical issues and infrastructure?
 explicit: no
 block: no
 published: true

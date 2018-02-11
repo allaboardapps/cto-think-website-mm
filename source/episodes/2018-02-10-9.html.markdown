@@ -9,6 +9,7 @@ duration: '00:46:58'
 file_size_bytes: 56000000
 file_type: audio/mpeg
 keywords: focus, open office, interruptions, conversation, communication, developers, cto, management
+short_description: Developer focus and how managers are responsible for making it a priority
 explicit: no
 block: no
 published: true

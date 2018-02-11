@@ -47,6 +47,32 @@
       <%= partial "partials/footer" %>
     </footer>
   </div><!-- /.page -->
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "AudioObject",
+    "contentUrl": "<%= current_page.data.soundcloud_link %>",
+    "contentSize": "<%= current_page.data.file_size_bytes %>",
+    "uploadDate": "<%= current_page.data.file_size_bytes %>",
+    "associatedArticle": "https://www.ctothink.com<%= current_page.url %>",
+    "headline": "<%= current_page.title %>",
+    "description": "<%= current_page.data.short_description %>",
+    "duration": "<%= Time.parse(current_page.data.duration).strftime('T%MM%SS') %>",
+    "encodingFormat": "mp3",
+    "name": "<%= current_page.data.audio_file_name %>",
+    "productionCompany": "<%= config[:author] %>",
+    "accountablePerson": "<%= config[:author] %>",
+    "author": "<%= config[:author] %>",
+    "creator": "<%= config[:author] %>",
+    "publisher": "<%= config[:author] %>",
+    "copyrightHolder": "<%= config[:author] %>",
+    "genre": "<%= config[:genre] %>",
+    "isFamilyFriendly": true,
+    "keywords": "<%= current_page.data.keywords %>",
+    "position": <%= current_page.data.id %>,
+    "image": "<%= config[:image_url] %>"
+  }
+</script>
 <% end %>
 
 

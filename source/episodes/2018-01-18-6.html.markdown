@@ -9,6 +9,7 @@ duration: '00:37:00'
 file_size_bytes: 40088009
 file_type: audio/mpeg
 keywords: cto, technical manager, coding, python, django, patreon, transcripts
+short_description: Talking about the importance of a tech manager actually doing hands-on coding
 explicit: no
 block: no
 published: true

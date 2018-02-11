@@ -9,6 +9,7 @@ duration: '00:39:56'
 file_size_bytes: 46488970
 file_type: audio/mpeg
 keywords: cto, technical manager, self-learning, work-life, non-tech, balance, 9-to-5
+short_description: Discussion about work-life balance and learning new skills on personal time
 explicit: no
 block: no
 published: true

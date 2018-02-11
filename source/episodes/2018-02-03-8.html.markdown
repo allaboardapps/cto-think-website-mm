@@ -9,6 +9,7 @@ duration: '00:40:37'
 file_size_bytes: 47972217
 file_type: audio/mpeg
 keywords: self-hosted, managed hosting, cloud hosting, serverless, aws, google cloud, azure, cto, management
+short_description: Choosing between self-hosting, managed hosting, cloud options, and serverless
 explicit: no
 block: no
 published: true

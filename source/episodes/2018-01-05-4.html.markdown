@@ -9,6 +9,7 @@ duration: '00:42:46'
 file_size_bytes: 82132243
 file_type: audio/mpeg
 keywords: meltdown, spectre, exploits, vulnerabilities, CTO, manager, prevention, Intel, Mac, iOS, Microsoft
+short_description: How should a manager respond to the Meltdown and Spectre vulnerabilities?
 explicit: no
 block: no
 published: true
