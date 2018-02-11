@@ -60,11 +60,10 @@ READMORE
 * [The Garage at Northwestern](https://thegarage.northwestern.edu)
 * [Interruption is Not Collaboration by Wailin Wong](https://m.signalvnoise.com/interruption-is-not-collaboration-8dfb20731569)
 * [Trello, an asychronus communication tool](https://trello.com)
-Jason Fried of Basecamp
 * [Joel on Software](https://www.joelonsoftware.com/)
 * [Jason Fried on Inc Magazine](https://www.inc.com/author/jason-fried)
 * [Signal vs Noise](https://m.signalvnoise.com/)
-* [Remote: Office not required](https://www.amazon.com/gp/product/0804137501/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137501&linkCode=as2&tag=allaboardapps-20&linkId=e0b1d7fb96a5a922d2eea1a99ac209e7)
+* [Remote: Office not required](https://www.amazon.com/gp/product/0804137501/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0804137501&linkCode=as2&tag=allaboardapps-20&linkId=e0b1d7fb96a5a922d2eea1a99ac209e7) a book by Jason Fried and DHH
 * [The Calm Company](https://m.signalvnoise.com/the-calm-company-our-next-book-d0ed917cc457) an upcoming book by the folks at Basecamp
 * Patreon: [CTO Think Podcast is creating Episode Transcripts for Accessiblity](https://www.patreon.com/ctothink)
 
