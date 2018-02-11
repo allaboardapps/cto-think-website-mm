@@ -11,15 +11,15 @@ set :site_description, "A pragmatic podcast about leadership, product dev, and t
 set :site_keywords, "chief technology officer, business, management, technology, leadership, development, Don VanDemark, Randy Burgess"
 set :site_name, "CTO Think"
 set :author, "CTO Think"
-set :site_acronym, "CTOT"
+set :site_acronym, "CTO"
 set :site_email, "hello@ctothink.com"
 set :site_url, "https://www.ctothink.com"
 set :cdn_url, "https://s3.amazonaws.com/cto-think-podcast-assets"
-set :unsafe_cdn_url, "http://s3.amazonaws.com/cto-think-podcast-assets"
 set :site_copyright, "© 2017-2018 CTO Think. All Rights Reserved."
 set :ga_id, "UA-111873195-1"
 set :genre, "http://vocab.getty.edu/aat/300056069"
 set :image_url, "https://s3.amazonaws.com/cto-think-podcast-assets/cto-think-logo-itunes.jpg"
+set :twitter_handle, "@ctothink"
 
 
 activate :autoprefixer do |prefix|
@@ -89,10 +89,6 @@ set(:port, 3000)
 helpers do
   def cdn_file_url(file_name)
     "#{config[:cdn_url]}/#{file_name}"
-  end
-
-  def unsafe_cdn_file_url(file_name)
-    "#{config[:unsafe_cdn_url]}/#{file_name}"
   end
 
   def image_url(file_name)

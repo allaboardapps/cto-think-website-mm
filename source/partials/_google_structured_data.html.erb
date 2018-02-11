@@ -1,0 +1,91 @@
+<script type="application/ld+json">
+  <% if current_page.data.title == "Home" %>
+    [{
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "<%= config[:site_url] %>",
+      "logo": "<%= config[:image_url] %>",
+      "sameAs": [
+        "https://www.facebook.com/ctothink",
+        "https://www.linkedin.com/in/ctothink",
+        "https://twitter.com/ctothink"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "<%= config[:site_name] %>",
+      "url": "<%= config[:site_url] %>"
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Randy Burgess",
+      "url": "http://www.wrburgess.com",
+      "sameAs": [
+        "https://www.facebook.com/wrburgess",
+        "https://instagram.com/wrburgess",
+        "https://www.linkedin.com/in/wrburgess",
+        "https://twitter.com/wrburgess"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Don VanDemark",
+      "url": "https://medium.com/@donvandemark",
+      "sameAs": [
+        "https://www.linkedin.com/in/donvandemark/",
+        "https://twitter.com/DonVanDemark"
+      ]
+    }]
+  <% else %>
+    {
+      "@context": "http://schema.org",
+      "@type": "AudioObject",
+      "contentUrl": "<%= current_page.data.soundcloud_link %>",
+      "contentSize": "<%= current_page.data.file_size_bytes %>",
+      "uploadDate": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+      "associatedArticle": {
+        "headline": "<%= current_page.title %>",
+        "author": "<%= config[:author] %>",
+        "datePublished": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+        "dateModified": "<%= current_page.date.strftime("%a, %e %b %Y %k:%M:%S %Z") %>",
+        "image": "<%= config[:image_url] %>",
+        "publisher": {
+          "@context": "http://schema.org",
+          "@type" : "Organization",
+          "name": "<%= config[:author] %>",
+          "url" : "https://www.ctothink.com",
+          "email": "hello@ctothink.com",
+          "telephone": "773-551-6808",
+          "logo": {
+            "@type": "ImageObject",
+            "caption": "<%= config[:author] %> Logo",
+            "url": "<%= config[:image_url] %>"
+          }
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://www.ctothink.com<%= current_page.url %>"
+        }
+      },
+      "headline": "<%= current_page.title %>",
+      "description": "<%= current_page.data.short_description %>",
+      "duration": "<%= Time.parse(current_page.data.duration).strftime('T%MM%SS') %>",
+      "encodingFormat": "mp3",
+      "name": "<%= current_page.data.audio_file_name %>",
+      "productionCompany": "<%= config[:author] %>",
+      "accountablePerson": "<%= config[:author] %>",
+      "author": "<%= config[:author] %>",
+      "creator": "<%= config[:author] %>",
+      "publisher": "<%= config[:author] %>",
+      "copyrightHolder": "<%= config[:author] %>",
+      "genre": "<%= config[:genre] %>",
+      "isFamilyFriendly": true,
+      "keywords": "<%= current_page.data.keywords %>",
+      "position": <%= current_page.data.id %>,
+      "image": "<%= config[:image_url] %>"
+    }
+  <% end %>
+</script>
