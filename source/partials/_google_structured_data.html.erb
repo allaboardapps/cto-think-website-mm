@@ -55,6 +55,7 @@
           {
             "@type":"ListItem",
             "position": <%= index + 1 %>,
+            "name": "<%= episode.title %>",
             "url": "<%= "#{config[:site_url]}#{episode.url}" %>"
           }<%= "," if index < (blog.articles.size - 1) %>
         <% end %>
