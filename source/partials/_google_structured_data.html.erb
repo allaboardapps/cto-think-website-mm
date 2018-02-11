@@ -3,6 +3,7 @@
     [{
       "@context": "http://schema.org",
       "@type": "Organization",
+      "name": "<%= config[:site_name] %>",
       "url": "<%= config[:site_url] %>",
       "logo": "<%= config[:image_url] %>",
       "sameAs": [
@@ -44,6 +45,19 @@
       "sameAs": [
         "https://www.linkedin.com/in/donvandemark/",
         "https://twitter.com/DonVanDemark"
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        <% blog.articles.each_with_index do |episode, index| %>
+          {
+            "@type":"ListItem",
+            "position": <%= index + 1 %>,
+            "url": "<%= "#{config[:site_url]}#{episode.url}" %>"
+          }<%= "," if index < (blog.articles.size - 1) %>
+        <% end %>
       ]
     }]
   <% else %>
