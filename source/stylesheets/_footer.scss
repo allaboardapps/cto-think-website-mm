@@ -9,10 +9,25 @@ footer {
     grid-column-start: 1;
     grid-column-end: 1;
 
-    li {
-      display: inline-block;
+    ul {
       list-item-style: none;
-      padding-right: 20px;
+
+      li {
+        display: inline-block;
+        padding-right: 20px;
+      }
+    }
+  }
+
+  .legal {
+
+    ul {
+      list-item-style: none;
+
+      li {
+        display: inline-block;
+        padding-right: 20px;
+      }
     }
   }
 
