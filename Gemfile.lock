@@ -102,7 +102,7 @@ GEM
     padrino-support (0.13.3.4)
       activesupport (>= 3.1)
     parallel (1.12.1)
-    public_suffix (3.0.1)
+    public_suffix (3.0.2)
     rack (2.0.4)
     rack-livereload (0.3.16)
       rack
@@ -140,7 +140,7 @@ DEPENDENCIES
   rails-assets-vanilla-lazyload (= 10.4.2)!
 
 RUBY VERSION
-   ruby 2.4.1p111
+   ruby 2.4.3p205
 
 BUNDLED WITH
    1.16.1
