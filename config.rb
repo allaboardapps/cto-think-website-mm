@@ -1,3 +1,4 @@
+# encoding: utf-8
 require "tzinfo"
 Time.zone = "America/New_York"
 
@@ -12,7 +13,7 @@ set :site_keywords, "chief technology officer, business, management, technology,
 set :site_name, "CTO Think"
 set :author, "CTO Think"
 set :site_acronym, "CTO"
-set :site_email, "helloctothink.com"
+set :site_email, "hello@ctothink.com"
 set :site_url, "https://www.ctothink.com"
 set :cdn_url, "https://s3.amazonaws.com/cto-think-podcast-assets"
 set :site_copyright, "© 2017-2018 CTO Think. All Rights Reserved."
