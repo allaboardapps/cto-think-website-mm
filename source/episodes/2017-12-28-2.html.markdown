@@ -3,6 +3,7 @@ id: 2
 title: Who should I hire to build an app?
 date: 2017/12/28 09:00:00AM
 audio_file_name: cto_think_episode_0002.mp3
+soundcloud_id: 382183394
 soundcloud_link: 'http://feeds.soundcloud.com/stream/382183394-cto-think-episode-2-who-should-i-hire-to-build-app.mp3'
 guid: 'http://feeds.soundcloud.com/stream/382183394-cto-think-episode-2-who-should-i-hire-to-build-app.mp3'
 duration: '00:25:11'

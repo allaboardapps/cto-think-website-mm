@@ -3,6 +3,7 @@ id: 5
 title: What's the value of test driven development in an Antifragile world?
 date: 2018/01/12 01:00:00PM
 audio_file_name: cto_think_episode_0005.mp3
+soundcloud_id: 382678694
 soundcloud_link: 'http://feeds.soundcloud.com/stream/382678694-cto-think-episode-5-antifragile-and-test-driven-development.mp3'
 guid: 'http://feeds.soundcloud.com/stream/382678694-cto-think-episode-5-antifragile-and-test-driven-development.mp3'
 duration: '00:33:48'

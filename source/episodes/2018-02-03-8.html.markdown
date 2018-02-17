@@ -3,6 +3,7 @@ id: 8
 title: How do you choose between self, managed, cloud, or serverless hosting?
 date: 2018/02/03 12:00:00PM
 audio_file_name: cto_think_episode_0008.mp3
+soundcloud_id: 393990927
 soundcloud_link: 'http://feeds.soundcloud.com/stream/393990927-cto-think-episode-8-how-do-you-choose-between-self-managed-cloud-or-serverless-hosting.mp3'
 guid: 'https://s3.amazonaws.com/cto-think-podcast-assets/cto_think_episode_0008.mp3'
 duration: '00:40:37'

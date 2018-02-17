@@ -3,6 +3,7 @@ id: 9
 title: Developer focus is an excuse not to talk, right?
 date: 2018/02/10 3:00:00PM
 audio_file_name: cto_think_episode_0009.mp3
+soundcloud_id: 397541898
 soundcloud_link: 'http://feeds.soundcloud.com/stream/397541898-cto-think-episode-9-developer-focus-is-an-excuse-not-to-talk-right.mp3'
 guid: 'https://s3.amazonaws.com/cto-think-podcast-assets/cto_think_episode_0009.mp3'
 duration: '00:46:58'

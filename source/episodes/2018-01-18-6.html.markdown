@@ -3,6 +3,7 @@ id: 6
 title: Does a tech manager need to code to be effective?
 date: 2018/01/18 02:00:00PM
 audio_file_name: cto_think_episode_0006.mp3
+soundcloud_id: 386218976
 soundcloud_link: 'http://feeds.soundcloud.com/stream/386218976-cto-think-episode-6-does-a-tech-manager-need-to-code-to-be-effective.mp3'
 guid: 'http://feeds.soundcloud.com/stream/386218976-cto-think-episode-6-does-a-tech-manager-need-to-code-to-be-effective.mp3'
 duration: '00:37:00'
