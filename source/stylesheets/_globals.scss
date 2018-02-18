@@ -13,8 +13,12 @@ h2 {
 }
 
 h3 {
-  font-family: $font-main;
+  font-family: $font-header;
   font-size: 1.5em;
+}
+
+h4 {
+  font-family: $font-header;
 }
 
 .page {
