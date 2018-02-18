@@ -1,6 +1,5 @@
 GEM
   remote: https://rubygems.org/
-  remote: https://rails-assets.org/
   specs:
     activesupport (5.0.6)
       concurrent-ruby (~> 1.0, >= 1.0.2)
@@ -106,7 +105,6 @@ GEM
     rack (2.0.4)
     rack-livereload (0.3.16)
       rack
-    rails-assets-vanilla-lazyload (10.4.2)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -135,7 +133,6 @@ DEPENDENCIES
   middleman-livereload (= 3.4.6)
   middleman-sprockets (= 4.1.1)
   nokogiri (= 1.8.2)
-  rails-assets-vanilla-lazyload (= 10.4.2)!
 
 RUBY VERSION
    ruby 2.4.3p205
