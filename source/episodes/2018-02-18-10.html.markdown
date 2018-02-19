@@ -15,7 +15,7 @@ block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-If a junior developer is looking at the fork in a technology career path of software engineering or management, what kinds of skills and learning should they focus on if they are curious about the management side of things?
+If a junior developer is looking at the fork in a technology career path of software engineering or management, what kinds of skills do they need for the leadership side?
 READMORE
 
 #### Notes

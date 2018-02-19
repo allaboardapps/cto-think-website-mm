@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    autoprefixer-rails (7.2.6)
+    autoprefixer-rails (8.0.0)
       execjs
     backports (3.11.1)
     builder (3.2.3)
@@ -51,8 +51,8 @@ GEM
       middleman-cli (= 4.2.1)
       middleman-core (= 4.2.1)
       sass (>= 3.4.0, < 4.0)
-    middleman-autoprefixer (2.8.0)
-      autoprefixer-rails (>= 7.0.1, < 8.0.0)
+    middleman-autoprefixer (2.9.0)
+      autoprefixer-rails (~> 8.0)
       middleman-core (>= 3.3.3)
     middleman-blog (4.0.2)
       addressable (~> 2.3)
@@ -128,7 +128,7 @@ PLATFORMS
 DEPENDENCIES
   builder (= 3.2.3)
   middleman (= 4.2.1)
-  middleman-autoprefixer (= 2.8.0)
+  middleman-autoprefixer (= 2.9.0)
   middleman-blog (= 4.0.2)
   middleman-livereload (= 3.4.6)
   middleman-sprockets (= 4.1.1)
