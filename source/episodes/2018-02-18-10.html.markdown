@@ -1,0 +1,79 @@
+---
+id: 10
+title: What skills are necessary for a career path of technical leadership?
+date: 2018/02/18 3:00:00PM
+audio_file_name: cto_think_episode_0010.mp3
+soundcloud_id: 401739972
+soundcloud_link: 'http://feeds.soundcloud.com/stream/401739972-cto-think-episode-10-what-skills-are-necessary-for-technical-management.mp3'
+duration: '00:44:17'
+file_size_bytes: 63776309
+file_type: audio/mpeg
+keywords: empathy, junior developers, hiring, understanding stakeholders, meetups, teaching, introvert, extrovert
+short_description: What should a junior developer consider learning for a career on technical leadership path?
+explicit: no
+block: no
+published: true
+featuring: 'Randy Burgess, Don VanDemark'
+---
+If a junior developer is looking at the fork in a technology career path of software engineering or management, what kinds of skills and learning should they focus on if they are curious about the management side of things?
+READMORE
+
+#### Notes
+
+* Don is working on a communications tool for Construction Specialties & Design
+* Randy was recently hired as a Fractional CTO for a startup
+* A question in an external discussion was posed: Why are there so few good managers in technology?
+* Enova, a financial firm based out of Chicago, has created clear engineering and leadership paths for their technology team
+* Empathy is a clear requirement for good leadership
+* "Constantly put yourself in other people's shoes. If you can think about someone else or their situation removed from yourself, that's what you're aiming for."
+* Empathy for both the people working under you and those other people above your, or clients, is all important.
+* Understanding stakeholders is another big step to move up the ladder
+* Understand their motivations and their needs. Different judgement metrics are put upon different roles and your ability to help your manager meet those metrics can move you up the ladder.
+* Be able to shape-shift depending on various situations.
+* Junior developers are not privvy to meetings where other stakeholders are involved. How does someone shut out of the meetings get in front of different stakeholders?
+* Start with whom you are connected to, to your close manager. Eventually, more responsibility will come your way.
+* It's a little about hustle, as well. Find out what your best traits are and work doubly hard at those skills for the team.
+* Get out of the office and meet the different stakeholders that you don't have access to at your current job.
+* Go to meetups that don't necessarily include the same exact people as yourself.
+* Meet startup founders, executives, managers, designers, etc that you'll need to work with down the road.
+* Teaching people that are greener than yourself at a particular skill will open up your experience with people that you'll need to manage or teach in the future.
+* Get to know users, the problems they face, the tech they use, which are closer to the client or userbase of other products or firms.
+* Most people at meetups are also introverts. You can be as quiet as you want until you get comfortable.
+* Understanding yourself, your anxieties, how your energy with other people work, how other people respond to you.
+* Knowing where you fit on the extrovert, introvert spectrum is very helpful for knowing how you can work better with other people.
+* Staying calm in a frantic situation can sometimes be perceived as "not caring" rather than "I'm taking care of this problem"
+* Mark Richt was at the University of Georgia for fifteen years and was frequently criticized for his lack of reaction during game losses.
+* Technical leaders move up the ladder faster because they have excellent people working for them. It's not only a product of managing people well, but bring
+* Outsourcing the hiring process to Human Resources or recruiters is the first point of failure
+* Recruiting is the lifeblood of your team's talent and productivity
+* It is upon every person moving up the ladder to understand the hiring process and take ownership of adding better people to their teams.
+* Understand what it costs to get good people
+* Talk to recruiters about how they go about their jobs
+* Understand how your company brings people into interviews
+* Finding good people will set the tone of productivity for your teams and it's imperative for you to own the process of doing that
+* Getting to understand the variety of other personalities out there helps learn about the variety of folks you need to manage
+* Two other areas for another episode: Project management for developers and project management for managers
+* Training and teaching are extremely important for a management role where the labor market is tight. Growing a team and teaching green to great is important for technical leadership roles.
+
+#### Recommendations
+
+* Don recommends a blog post on Medium by Paul Robinson, [The Problems of the CTO Role](https://medium.com/@p7r/the-problems-of-the-cto-role-c2a143a1cec7), which talks about the CTO job, how people got into the job and the ways in which it is broken
+* Randy recommends the [SimpleNote app](https://simplenote.com/) and service
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
