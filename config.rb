@@ -19,10 +19,14 @@ set :cdn_url, "https://s3.amazonaws.com/cto-think-podcast-assets"
 set :site_copyright, "© 2017-2018 CTO Think. All Rights Reserved."
 set :genre, "http://vocab.getty.edu/aat/300056069"
 set :image_url, "https://s3.amazonaws.com/cto-think-podcast-assets/cto-think-logo-itunes.jpg"
-set :twitter_handle, "@ctothink"
 set :ga_id, "UA-111873195-1"
 set :bing_validation, "332ADCC9E2D993407E5001016E4C23CC"
 set :yandex_validation, "20d748a5f7352073"
+set :facebook_url, "https://www.facebook.com/ctothink"
+set :linkedin_url, "https://https://www.linkedin.com/company/ctothink/"
+set :twitter_url, "https://twitter.com/ctothink"
+set :twitter_handle, "@ctothink"
+set :site_phone_number, "+1-773-551-6808"
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
@@ -86,7 +90,7 @@ if defined? RailsAssets
   end
 end
 
-set(:port, 3000)
+set(:port, 8080)
 
 helpers do
   def cdn_file_url(file_name)
@@ -97,4 +101,3 @@ helpers do
     "#{config[:site_url]}/images/#{file_name}"
   end
 end
-

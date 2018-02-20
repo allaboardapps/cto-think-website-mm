@@ -7,13 +7,13 @@
       "url": "<%= config[:site_url] %>",
       "logo": "<%= config[:image_url] %>",
       "sameAs": [
-        "https://www.facebook.com/ctothink",
-        "https://www.linkedin.com/in/ctothink",
-        "https://twitter.com/ctothink"
+        "<%= config[:facebook_url] %>",
+        "<%= config[:linkedin_url] %>",
+        "<%= config[:twitter_url] %>"
       ],
       "contactPoint": [{
         "@type": "ContactPoint",
-        "telephone": "+1-773-551-6808",
+        "telephone": "<%= config[:site_phone_number] %>",
         "contactType": "customer service",
         "availableLanguage": "English",
         "areaServed": "US"
@@ -29,7 +29,7 @@
       "@context": "http://schema.org",
       "@type": "Person",
       "name": "Randy Burgess",
-      "url": "http://www.wrburgess.com",
+      "url": "https://www.wrburgess.com",
       "sameAs": [
         "https://www.facebook.com/wrburgess",
         "https://instagram.com/wrburgess",
@@ -80,9 +80,9 @@
           "@context": "http://schema.org",
           "@type" : "Organization",
           "name": "<%= config[:author] %>",
-          "url" : "https://www.ctothink.com",
-          "email": "hello@ctothink.com",
-          "telephone": "773-551-6808",
+          "url" : "<%= config[:site_url] %>",
+          "email": "<%= config[:site_email] %>",
+          "telephone": "<%= config[:site_phone_number] %>",
           "logo": {
             "@type": "ImageObject",
             "caption": "<%= config[:author] %> Logo",
@@ -91,7 +91,7 @@
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://www.ctothink.com<%= current_page.url %>"
+          "@id": "<%= config[:site_url] %><%= current_page.url %>"
         }
       },
       "headline": "<%= current_page.title %>",
@@ -116,7 +116,7 @@
       "@type": "NewsArticle",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.ctothink.com<%= current_page.url %>"
+        "@id": "<%= config[:site_url] %><%= current_page.url %>"
       },
       "headline": "<%= current_page.title %>",
       "image": [
@@ -132,9 +132,9 @@
         "@context": "http://schema.org",
         "@type" : "Organization",
         "name": "<%= config[:author] %>",
-        "url" : "https://www.ctothink.com",
-        "email": "hello@ctothink.com",
-        "telephone": "773-551-6808",
+        "url" : "<%= config[:site_url] %>",
+        "email": "<%= config[:site_email] %>",
+        "telephone": "<%= config[:site_phone_number] %>",
         "logo": {
           "@type": "ImageObject",
           "caption": "<%= config[:author] %> Logo",
@@ -159,7 +159,7 @@
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://www.ctothink.com<%= current_page.url %>",
+            "@id": "<%= config[:site_url] %><%= current_page.url %>",
             "name": "Episode <%= current_page.data.id %>"
           }
         }
