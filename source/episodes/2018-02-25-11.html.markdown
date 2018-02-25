@@ -1,0 +1,72 @@
+---
+id: 11
+title: Are code challenges a lazy or legitimate method for hiring developers?
+date: 2018/02/25 1:00:00PM
+audio_file_name: cto_think_episode_0011.mp3
+soundcloud_id: 405122586
+soundcloud_link: 'http://feeds.soundcloud.com/stream/405122586-cto-think-episode-11-are-code-challenges-a-legitimate-method-for-hiring-developers.mp3'
+duration: '00:54:03'
+file_size_bytes: 62535291
+file_type: audio/mpeg
+keywords: hiring, recruiting, fizzbuzz, code challenges, filtering, management, cto, teambuilding, whiteboarding
+short_description: Are code challenges and quizzes a legitimate method for hiring developers?
+explicit: no
+block: no
+published: true
+featuring: 'Randy Burgess, Don VanDemark'
+---
+Are code challenges or quizzes a legitimate practice for hiring developers? We debate whether the method of filtering candidates via whiteboarding or code games is plain lazy or necessary part of the recruiting process for engineers.
+READMORE
+
+#### Notes
+
+* Randy is frank: taking a code quiz for a leadership or senior tech role is beneath his experience and skill-level
+* A developer's body of work speaks to their ability to build and lead, not FizzBuzz
+* Randy: Code challenges are lazy hiring.
+* What do you look at? The body of work a developer has done. What do they advertise as work that represents them?
+* Has this person been in a position for the role I'm hiring for? Will a coding quiz tell you that?
+* Look at a candidate's resume, blog, and personal website or simply ask them
+* Github repos are dumping grounds for scripts and not a great place to review someone's quality code
+* Ask the person to provide examples of project they work on
+* People can't show proprietary code from a company they work for, and you don't want them to
+* If a person has not been able to build things, then a test to show technical aptitude may be warranted
+* A green-level dev, in an audition process, must be judged with the idea that such tests are create anxiety
+* Do you really want to hire someone who spends all their time preparing for coding tests?
+* Don's team at AspirEDU brings in the developer, walks through prior experience, and then offers to pay them to come in and spend time working on a small project, and solve the issue
+* A good crop of exceptional developers are already employed and have a high demand for their skills
+* If the only part of the tech pool you're looking at are unemployed people, are you missing out?
+* A developer that spends all day coding, and then needs to do a coding challenge to prove they can code, may decide not to put up with your process
+* If you put hiring quality people at a lower priority, maybe you're misunderstanding the value of exceptional developers vs average ones
+* Under pressure, can you solve a quiz I just found in a book, and solve it to prove you're worth my time?
+* If someone gives you a reference, take the time to call them and find out what kind of person the candidate is
+* If a developer wants to forego recruiting that includes code puzzles, they need to ask: Who has the leverage, here?
+
+#### Links
+
+* [Hiring without Whiteboards (on GitHub)](https://github.com/poteto/hiring-without-whiteboards)
+* [Hiring Without Whiteboards: HackerNews Discussion](https://news.ycombinator.com/item?id=13874026)
+
+#### Recommendations
+
+* Don recommends [Angel: How to Invest in Technology Startups by Jason Calacanis](http://amzn.to/2F6wtBs)
+* Don recommends [Angel the Podcast - E15: Arlan Hamilton](https://podtail.com/podcast/-angel-hosted-by-jason-calacanis-audio/e15-arlan-hamilton-backstage-capital-on-being-a-se/)
+* Don recommends [The Bootstapped VC Podcast with Arlan Hamilton](http://backstagecapital.com/podcast/)
+* Randy recommends [Matt Levine: Money Stuff](https://www.bloomberg.com/view/topics/money-stuff) and you can subscribe to the email list via [this link](https://www.bloomberg.com/view/?alcmpid=view&subscribe-form=levine)
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
