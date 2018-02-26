@@ -15,7 +15,7 @@ block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-Are code challenges or quizzes a legitimate practice for hiring developers? We debate whether the method of filtering candidates via whiteboarding or code games is plain lazy or necessary part of the recruiting process for engineers.
+Are code challenges or quizzes a legitimate practice for hiring developers? We debate whether the method of filtering candidates via whiteboarding or code games is plain lazy or a necessary part of the recruiting process for engineers.
 READMORE
 
 #### Notes
@@ -33,10 +33,10 @@ READMORE
 * A green-level dev, in an audition process, must be judged with the idea that such tests are create anxiety
 * Do you really want to hire someone who spends all their time preparing for coding tests?
 * Don's team at AspirEDU brings in the developer, walks through prior experience, and then offers to pay them to come in and spend time working on a small project, and solve the issue
-* A good crop of exceptional developers are already employed and have a high demand for their skills
+* A good number of exceptional developers are already employed and have a high demand for their skills
 * If the only part of the tech pool you're looking at are unemployed people, are you missing out?
 * A developer that spends all day coding, and then needs to do a coding challenge to prove they can code, may decide not to put up with your process
-* If you put hiring quality people at a lower priority, maybe you're misunderstanding the value of exceptional developers vs average ones
+* If taking the time to hire quality people is a low priority, maybe you're misunderstanding the impact of exceptional developers vs average ones
 * Under pressure, can you solve a quiz I just found in a book, and solve it to prove you're worth my time?
 * If someone gives you a reference, take the time to call them and find out what kind of person the candidate is
 * If a developer wants to forego recruiting that includes code puzzles, they need to ask: Who has the leverage, here?
