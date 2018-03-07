@@ -1,0 +1,50 @@
+---
+id: 12
+title: How to communicate when your product is on a rollercoaster of uptime and downtime
+date: 2018/03/07 1:00:00PM
+audio_file_name: cto_think_episode_0012.mp3
+soundcloud_id: 410271969
+soundcloud_link: 'http://feeds.soundcloud.com/stream/410271969-cto-think-episode-12-communicating-when-your-product-is-on-a-rollercoaster-of-uptime-and-downtime.mp3'
+duration: '00:59:00'
+file_size_bytes: 61495221
+file_type: audio/mpeg
+keywords: uptime, downtime, bugs, maintenance, critical issues, hosting, notifications, alerts, communication, status page, advisory levels
+short_description: When your technology product experiences downtime what are the best approaches to communicating with users, executives, and other stakeholders?
+explicit: no
+block: no
+published: true
+featuring: 'Randy Burgess, Don VanDemark'
+---
+Randy and Don found themselves stranded on a rollercoaster at Disney World mid-ride. This week, from an in-person recording from Orlando, they talk about how a tech manager should handle technical downtime, service interruptions, and critical alerts for users, executives, and investors that depend on services.
+READMORE
+
+#### Notes
+
+* Randy and Don were stranded on the Everest 
+
+#### Links
+
+* [Expedition Everest - Legend of the Forbidden Mountain](https://disneyworld.disney.go.com/attractions/animal-kingdom/expedition-everest/)
+
+#### Recommendations
+
+* Randy recommends [AirBnB for Orlando Condos](https://www.airbnb.com/c/rburgess10)
+* Don recommends [Avatar: Flight of Passage](https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/airbnbn)
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
