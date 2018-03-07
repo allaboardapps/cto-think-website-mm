@@ -15,12 +15,12 @@ block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-Randy and Don found themselves stranded on a rollercoaster at Disney World mid-ride. This week, from an in-person recording from Orlando, they talk about how a tech manager should handle technical downtime, service interruptions, and critical alerts for users, executives, and investors that depend on services.
+Randy and Don found themselves stranded, mid-ride on a rollercoaster at Disney World. Following their rescue and during an in-person recording from Orlando, they talk about how a tech manager should handle technical downtime, service interruptions, and critical alerts for users, executives, and investors that depend on services.
 READMORE
 
 #### Notes
 
-* Randy and Don were stranded on the Everest 
+* Randy and Don were stranded on the Expedition Everest rollercoaster mid-ride due to mechanical failure.
 
 #### Links
 
