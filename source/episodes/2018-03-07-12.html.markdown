@@ -8,28 +8,58 @@ soundcloud_link: 'http://feeds.soundcloud.com/stream/410271969-cto-think-episode
 duration: '00:59:00'
 file_size_bytes: 61495221
 file_type: audio/mpeg
-keywords: uptime, downtime, bugs, maintenance, critical issues, hosting, notifications, alerts, communication, status page, advisory levels
+keywords: Disney World, uptime, downtime, Animal Kingdom, bugs, maintenance, critical issues, Everest, hosting, notifications, alerts, communication, Avatar, status page, advisory levels
 short_description: When your technology product experiences downtime what are the best approaches to communicating with users, executives, and other stakeholders?
 explicit: no
 block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-Randy and Don found themselves stranded, mid-ride on a rollercoaster at Disney World. Following their rescue and during an in-person recording from Orlando, they talk about how a tech manager should handle technical downtime, service interruptions, and critical alerts for users, executives, and investors that depend on services.
+Randy and Don found themselves stranded, mid-ride on the Expedition Everest rollercoaster at Disney World's Animal Kingdom. Following their rescue, and during an in-person recording from Orlando, they talk about how a tech manager should handle technical downtime, service interruptions, and critical alerts for users, executives, and investors that depend on services.
 READMORE
 
 #### Notes
 
 * Randy and Don were stranded on the Expedition Everest rollercoaster mid-ride due to mechanical failure.
+* For the first 10 to 15 minutes, there was no indication that there was a problem at all.
+* What is the best way to communicate to users, to managers, to employees when things are not going well.
+* When it breaks down, you give the first message of "Something is wrong. You're perfectly safe."
+* Usually your upstream provider is the source of most uptime issues.
+* For outages, you tend to set a routine amount of time between messages to the stakeholders.
+* Sometimes upstream providers will contact your clients before you have a chance to respond to the issue.
+* If you send too many notices, stakeholders may tune you out.
+* Define the level of urgency of communications is important, but don't leave things above normal too long.
+* Having an SOP standard operating procedure is important for folks that are new to a role at the wrong time.
+* Disaster recovery plans are different, because they tend to cover scenarios where a major problem has caused damage.
+* A paper copy is necessary due to the fact that online access might be blocked during downtime.
+* Breach protocol is another type of process necessary for handling technical issues.
+* How much information should you give people about what caused the situation?
+* Don't try to walk Disney's Animal Kingdom Expedition Everest ride. The rollercoaster is more fun.
+* Don experienced a communications issue with the Orlando City MLS team during opening night.
+* Setting expectations for users is by far the most important goal early in the downtime communication process.
+* Canned messages are typical, because they don't deviate from the message you need to convey.
+* Content of messages is also important and consideration of internationalization and multiple languages may be necessary.
+* Don't make your users ask, "what the heck are they talking about?" during crisis communications.
+* Don't bore your users with repetitive, non-informative content.
+* Consider various stakeholders that need to know about the situation. Owners, investors, users, and managers all need different type of info regarding the problems and solutions.
+* What channels do you use to distribute communications: email, slack, message boards, ios notifications, android notifications, SMS, push and pull, status page.
+* Make sure your status page provider isn't using the same upstream providers that your service is using.
+* Know your stakeholders well enough for who needs to know what or who doesn't care.
+* Trying to control the entire narrative of the problem can be problematic or even impossible.
+* A good post mortem (hindsight report about the outcome) is helpful to explain the problems and the steps you're taking to prevent them in the future.
 
 #### Links
 
+* [Disney World's Animal Kingdom](https://disneyworld.disney.go.com/destinations/animal-kingdom/)
 * [Expedition Everest - Legend of the Forbidden Mountain](https://disneyworld.disney.go.com/attractions/animal-kingdom/expedition-everest/)
+* [Atlassian Statuspage](https://www.statuspage.io/)
 
 #### Recommendations
 
 * Randy recommends [AirBnB for Orlando Condos](https://www.airbnb.com/c/rburgess10)
-* Don recommends [Avatar: Flight of Passage](https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/airbnbn)
+* Randy recommends [Lyft](https://www.lyft.com/drivers/RANDY1241) and [Uber](https://www.uber.com/invite/y9ecr) rather than renting a car
+* Randy recommends [Avatar: Flight of Passage](https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/airbnbn)
+* Don recommends that you contact him for Disney World tips
 
 #### Closing
 
