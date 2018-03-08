@@ -1,6 +1,6 @@
 ---
 id: 12
-title: How to communicate when your product is on a rollercoaster of uptime and downtime
+title: How to communicate when your product is on a roller coaster of uptime and downtime
 date: 2018/03/07 1:00:00PM
 audio_file_name: cto_think_episode_0012.mp3
 soundcloud_id: 410271969
@@ -8,33 +8,33 @@ soundcloud_link: 'http://feeds.soundcloud.com/stream/410271969-cto-think-episode
 duration: '00:59:00'
 file_size_bytes: 61495221
 file_type: audio/mpeg
-keywords: Disney World, uptime, downtime, Animal Kingdom, bugs, maintenance, critical issues, Everest, hosting, notifications, alerts, communication, Avatar, status page, advisory levels
+keywords: Disney World, uptime, downtime, Animal Kingdom, bugs, maintenance, critical issues, Everest, hosting, notifications, alerts, communication, Avatar, status page, advisory levels, roller coaster
 short_description: When your technology product experiences downtime what are the best approaches to communicating with users, executives, and other stakeholders?
 explicit: no
 block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-Randy and Don found themselves stranded, mid-ride on the Expedition Everest rollercoaster at Disney World's Animal Kingdom. Following their rescue, and during an in-person recording from Orlando, they talk about how a tech manager should handle technical downtime, service interruptions, and critical alerts for users, executives, and investors that depend on services.
+Randy and Don found themselves stranded, mid-ride on the Expedition Everest roller coaster at Disney World's Animal Kingdom. Following their rescue, and during an in-person recording from Orlando, they talk about how a tech manager should handle technical downtime, service interruptions, and critical alerts for users, executives, and investors that depend on services.
 READMORE
 
 #### Notes
 
-* Randy and Don were stranded on the Expedition Everest rollercoaster mid-ride due to mechanical failure.
+* Randy and Don were stranded on the Expedition Everest roller coaster mid-ride due to mechanical failure.
 * For the first 10 to 15 minutes, there was no indication that there was a problem at all.
-* What is the best way to communicate to users, to managers, to employees when things are not going well.
+* What is the best way to communicate to users, to managers, to employees when things are not going well?
 * When it breaks down, you give the first message of "Something is wrong. You're perfectly safe."
 * Usually your upstream provider is the source of most uptime issues.
 * For outages, you tend to set a routine amount of time between messages to the stakeholders.
 * Sometimes upstream providers will contact your clients before you have a chance to respond to the issue.
 * If you send too many notices, stakeholders may tune you out.
-* Define the level of urgency of communications is important, but don't leave things above normal too long.
+* Defining the level of urgency of communications is important, but don't leave things above normal too long.
 * Having an SOP standard operating procedure is important for folks that are new to a role at the wrong time.
 * Disaster recovery plans are different, because they tend to cover scenarios where a major problem has caused damage.
 * A paper copy is necessary due to the fact that online access might be blocked during downtime.
 * Breach protocol is another type of process necessary for handling technical issues.
 * How much information should you give people about what caused the situation?
-* Don't try to walk Disney's Animal Kingdom Expedition Everest ride. The rollercoaster is more fun.
+* Don't try to walk Disney's Animal Kingdom Expedition Everest ride. The roller coaster is more fun.
 * Don experienced a communications issue with the Orlando City MLS team during opening night.
 * Setting expectations for users is by far the most important goal early in the downtime communication process.
 * Canned messages are typical, because they don't deviate from the message you need to convey.
