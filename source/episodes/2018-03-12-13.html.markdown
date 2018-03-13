@@ -1,15 +1,15 @@
 ---
 id: 13
-title: Guest Mark Thompson: Fostering a learning environment on an engineering team
+title: Mark Thompson on fostering a learning environment for your tech team
 date: 2018/03/12 1:00:00PM
 audio_file_name: cto_think_episode_0013.mp3
-soundcloud_id: 1
+soundcloud_id: 413053104
 soundcloud_link: 'http://feeds.soundcloud.com/stream/1.mp3'
-duration: '00:01:00'
+duration: '00:55:43'
 file_size_bytes: 111
 file_type: audio/mpeg
 keywords: Mark Thompson, Totally Strong, Trilogy Education, Northwestern University, teaching, empathy, patience, questions, classroom, leadership, pairing, Flutter, iOS
-short_description: We speak with Mark Thompson of Trilogy Education about the best ways to foster a productive learning environment in the office and the classroom.
+short_description: We speak with Mark Thompson of Trilogy Education Services about the best ways to foster a productive learning environment in the office and the classroom.
 explicit: no
 block: no
 published: false

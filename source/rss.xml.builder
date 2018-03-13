@@ -44,7 +44,7 @@ xml.rss(
           xml.id article.data.id
           xml.title "#{article.data.id}: #{article.title}"
           xml.link "#{config[:site_url]}#{article.url}"
-          xml.guid({ isPermaLink: false }, article.data.guid)
+          xml.guid({ isPermaLink: false }, "#{config[:cdn_url]}/#{article.data.audio_file_name}")
           xml.pubDate article.date.strftime("%a, %e %b %Y %k:%M:%S %Z")
           xml.lastBuildDate article.date.strftime("%a, %e %b %Y %k:%M:%S %Z")
           xml.author config[:site_name]
