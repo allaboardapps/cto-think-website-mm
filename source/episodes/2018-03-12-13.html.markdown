@@ -1,0 +1,92 @@
+---
+id: 13
+title: Guest Mark Thompson: Fostering a learning environment on an engineering team
+date: 2018/03/12 1:00:00PM
+audio_file_name: cto_think_episode_0013.mp3
+soundcloud_id: 1
+soundcloud_link: 'http://feeds.soundcloud.com/stream/1.mp3'
+duration: '00:01:00'
+file_size_bytes: 111
+file_type: audio/mpeg
+keywords: Mark Thompson, Totally Strong, Trilogy Education, Northwestern University, teaching, empathy, patience, questions, classroom, leadership, pairing, Flutter, iOS
+short_description: We speak with Mark Thompson of Trilogy Education about the best ways to foster a productive learning environment in the office and the classroom.
+explicit: no
+block: no
+published: false
+featuring: 'Randy Burgess, Don VanDemark, Mark Thompson'
+---
+We speak with our first guest, Mark Thompson of Trilogy Education, about his approach to creating a productive learning environment both on the job and in a classroom setting. Mark is also working on a side project named Totally Strong, which is pushing his own limits about learning to code while building an MVP (and raising a newborn!).
+READMORE
+
+#### Notes
+
+* Mark Thompson is both a developer and teacher of coding bootcamp, and now he's working for Trilogy Education as Director of Academic Excellence working on developing new training programs for Trilogy instructors
+* Mark is also working on a side project (with a new baby at home) called Totally Strong, Inc, which allows people to coordinate and plan workouts for free
+* Totally Strong is being built with a new framework called Flutter, which is still in beta
+* Junior developers need a culture where questions and answers are a key part of the workflow
+* Create a culture where senior members of the team are open to being interrupted and asked questions constantly
+* Mark is quick to highlight when someone asks a question that they are probably not the only person with the issue
+* Mark also compliments a person for taking the initiative to ask a question in the first place
+* Have students/juniors explain back what is going on with the code, which will likely force them to ask questions
+* Let people see that the teacher may need to re-explain things because the first delivery is not clear
+* Allow senior team members to also ask questions on behalf of the juniors
+* A great set of resources is also important (asynchronous learning) with documentation
+* Managers need to consider how much time they are allowing juniors to spend with the learning tools
+* Pair programming is a good way to strike a balance between work getting done and teaching at the same time
+* Give assignments in the early days that force juniors to learn (without throwing people into the fire)
+* Go through your issue cue and mark issues as "newcomer friendly" so you have some assignments ready for onboarding
+* Explaining pairing to a non-technical manager can be a challenge; one approach is to explain it more like a guiding process or apprenticeship (how other industries handle it)
+* Pairing does allow for teaching while something is getting done
+* Pushing all learning to the off-hours and weekends is courting burnout, which is dangerous to the most vulnerable people on your team (newcomers)
+* We are in a different workforce, where some ideas tell you that developers shouldn't even have side projects
+* Pairing does help mitigate the "hit by a bus" risk factor that a team has among senior devs
+* How do you keep energy high in an office environment, like a Mark Thompson classroom setting?
+* One of the Mark Thompson hallmarks is the "power clap" and "the dab" for praise, attention, and a little bit of fun.
+* How do you reach and pull energy out of the introverts when they are not engaging with the office or classroom?
+* Make sure your students or junior devs feel safe in the classroom. Have one-on-one conversations to build a rapport and reach out to them in a way that makes them comfortable.
+* Don't treat everyone the same. It's not just extroverts and introverts, but how people with different backgrounds interact with the world at large.
+* How does each individual person handle a learning environment? There's no silver bullet for handling the need for individual focus by managers.
+* Using empathy: how to respond to people in a more thoughtful manner? Put yourself in other people's shoes so that your response to questions and feedback or criticism is kind
+* Kindness invokes a higher level of care for those people around you
+* As a leader, it is on you to have more empathy: seek to understand before being understood
+* If you take over a new office, you need to give yourself time to learn about each person before trying to teach everyone
+* Be patient with yourself because teaching other people will not be easy for you
+* You need to learn more about the person, the student, in order for them to learn best
+* Patience in the workplace is vital if you want to create a learning environment
+* Be direct about deadlines and the needs of a project, but provide folks with the outlet to get help where needed
+* Also let the junior know that there are boundaries about when communication is needed
+* It's up to the learning developer to take the responsibility to ask for help or when they feel overwhelmed
+* Instruct learners to advocate for themselves and to not suffer in silence, take the initiative to reach out for help
+* People will not isolate themselves as much when they have a network to reach out to or vent
+* Being a teacher allows a budding manager to be a bit more fearless, how to communicate the need for a task and allow them to succeed at it
+* Going into a new career, don't compare yourself to everyone that is already experienced in the field. Think about how you learned things before, how high school seemed harder than middle school, and college harder than classes before.
+
+#### Links
+
+* [Mark Thompson Website](http://marktechson.com/)
+* [Mark Thompson on Twitter](https://twitter.com/marktechson)
+* [Mark Thompson on LinkedIn](https://www.linkedin.com/in/markallenthompson)
+* [Totally Strong](https://totallystrong.me)
+* [TotallyStrong on Twitter](https://twitter.com/totallystrong)
+* [Trilogy Education Services](https://www.trilogyed.com)
+* [Trilogy Job Openings](https://www.trilogyed.com/careers/openings/)
+* [Northwestern | Coding Bootcamp](https://bootcamp.northwestern.edu/coding/)
+* [Flutter, Google’s mobile UI framework](https://flutter.io/)
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
