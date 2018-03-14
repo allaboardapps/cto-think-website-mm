@@ -20,7 +20,7 @@ READMORE
 
 #### Notes
 
-* Mark Thompson is both a developer and teacher of coding bootcamp, and now he's working for Trilogy Education as Director of Academic Excellence working on developing new training programs for Trilogy instructors
+* Mark Thompson is both a developer of apps and teacher of coding bootcamps, and now he's working for Trilogy Education as Director of Academic Excellence working on developing new training programs for Trilogy instructors
 * Mark is also working on a side project (with a new baby at home) called Totally Strong, Inc, which allows people to coordinate and plan workouts for free
 * Totally Strong is being built with a new framework called Flutter, which is still in beta
 * Junior developers need a culture where questions and answers are a key part of the workflow
@@ -70,7 +70,7 @@ READMORE
 * [TotallyStrong on Twitter](https://twitter.com/totallystrong)
 * [Trilogy Education Services](https://www.trilogyed.com)
 * [Trilogy Job Openings](https://www.trilogyed.com/careers/openings/)
-* [Northwestern | Coding Bootcamp](https://bootcamp.northwestern.edu/coding/)
+* [Northwestern Coding Bootcamp](https://bootcamp.northwestern.edu/coding/)
 * [Flutter, Google’s mobile UI framework](https://flutter.io/)
 
 #### Closing
