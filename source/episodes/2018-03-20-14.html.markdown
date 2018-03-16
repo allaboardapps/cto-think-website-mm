@@ -1,0 +1,49 @@
+---
+id: 14
+title: You're so vain, you think in-office work is about you
+date: 2018/03/20 05:00:00AM
+audio_file_name: cto_think_episode_0014.mp3
+soundcloud_id: 414445557
+soundcloud_link: 'http://feeds.soundcloud.com/stream/414445557'
+duration: '00:59:48'
+file_size_bytes: 1
+file_type: audio/mpeg
+keywords: remote work, proximity, flexible workcycle, public transportation, commuting, cto, management, hiring, home office
+short_description: We discuss our history with in-office and remote work, why junior devs might reconsider working outside the office, and how requiring folks to work in your proximity is a trait of managerial vanity
+explicit: no
+block: no
+published: false
+featuring: 'Randy Burgess, Don VanDemark'
+---
+We discuss our history with in-office and remote work, why junior devs might reconsider working outside the office, and how requiring folks to work in your proximity is a trait of managerial vanity.
+READMORE
+
+#### Notes
+
+* We talk about remote work
+
+#### Links
+
+* [IBM](https://www.ibm.com/us-en/)
+* [Disney World](https://disneyworld.disney.go.com/)
+* [Innovations for Learning](http://www.innovationsforlearning.org/)
+* [Vue.js](https://flutter.io/)
+* [VueMastery](https://www.vuemastery.com/)
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
