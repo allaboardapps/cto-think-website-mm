@@ -1,6 +1,6 @@
 ---
 id: 7
-title: How important is a work-life or non-tech balance for a technology career?
+title: Work-life or non-tech balance - Is it worth the hype?
 date: 2018/01/27 03:00:00PM
 audio_file_name: cto_think_episode_0007.mp3
 soundcloud_id: 390086538

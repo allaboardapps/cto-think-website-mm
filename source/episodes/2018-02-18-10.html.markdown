@@ -1,6 +1,6 @@
 ---
 id: 10
-title: What skills are necessary for a career path of technical leadership?
+title: Skills for a career in tech leadership
 date: 2018/02/18 3:00:00PM
 audio_file_name: cto_think_episode_0010.mp3
 soundcloud_id: 401739972

@@ -1,6 +1,6 @@
 ---
 id: 5
-title: What's the value of test driven development in an Antifragile world?
+title: Antifragile and TDD - What's the value?
 date: 2018/01/12 01:00:00PM
 audio_file_name: cto_think_episode_0005.mp3
 soundcloud_id: 382678694

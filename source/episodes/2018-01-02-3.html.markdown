@@ -1,6 +1,6 @@
 ---
 id: 3
-title: When best to work on tech debt?
+title: Managing tech debt - When best to work on it?
 date: 2018/01/02 09:00:00AM
 audio_file_name: cto_think_episode_0003.mp3
 soundcloud_id: 382183406

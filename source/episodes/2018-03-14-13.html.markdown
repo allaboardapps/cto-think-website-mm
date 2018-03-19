@@ -1,6 +1,6 @@
 ---
 id: 13
-title: Mark Thompson of Trilogy on fostering a learning environment for your tech team
+title: Fostering a learning environment with Mark Thompson of Trilogy
 date: 2018/03/14 06:00:00AM
 audio_file_name: cto_think_episode_0013.mp3
 soundcloud_id: 413053104

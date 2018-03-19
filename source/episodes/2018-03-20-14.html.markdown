@@ -4,15 +4,15 @@ title: You're so vain, you think in-office work is about you
 date: 2018/03/20 05:00:00AM
 audio_file_name: cto_think_episode_0014.mp3
 soundcloud_id: 414445557
-soundcloud_link: 'http://feeds.soundcloud.com/stream/414445557'
+soundcloud_link: 'http://feeds.soundcloud.com/stream/414445557-cto-think-episode-14-youre-so-vain-you-think-in-office-work-is-about-you.mp3'
 duration: '00:59:48'
-file_size_bytes: 1
+file_size_bytes: 70235914
 file_type: audio/mpeg
 keywords: remote work, proximity, flexible workcycle, public transportation, commuting, cto, management, hiring, home office
-short_description: We discuss our history with in-office and remote work, why junior devs might reconsider working outside the office, and how requiring folks to work in your proximity is a trait of managerial vanity
+short_description: Discussing our history with in-office and remote work, why junior devs might reconsider working outside the office, and how requiring folks to work in your proximity may be a trait of managerial vanity
 explicit: no
 block: no
-published: false
+published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
 We discuss our history with in-office and remote work, why junior devs might reconsider working outside the office, and how requiring folks to work in your proximity is a trait of managerial vanity.
@@ -20,7 +20,45 @@ READMORE
 
 #### Notes
 
-* We talk about remote work
+* Apologies to Carly Simon for this episode's title.
+* Don's history is that starting in 2001 he began remote work with IBM, working for Disney.
+* IBM was an early adopter of remote work and later canceled the system.
+* A friend mentions that he has trouble hiring developers, but refuses to hire remote workers because he says he must, "watch them work." Laughs ensue.
+* Randy went through a few remote-work cycles, the first time where he basically failed at being productive at it.
+* The second time, Randy built a team that gradually moved from in-office to remote work.
+* Reasons for not working remote: client demands and trust of workers
+* A good reason for working in-office: The need for quick, fast communications due to a deadline. The fidelity of the communication was very high for the necessary speed of the team's velocity.
+* Some managers thing that their teams need a high level of fidelity of communications at all times
+* Randy thinks many managers that require in-office work are simply immature in their management skills
+* You should be able to trust your workers if you actually take the time to hire well. Hire people you can trust, regardless of proximity.
+* Randy throws down on vanity being a reason against remote work: There are managers that think having an office space with people working in it means something to their level of success.
+* Some managers think they've "arrived" because they can see people working around them.
+* A valid reason for working in-office is due to hardware or product development that needs specific tools or space to get work done.
+* Remote works best for information-based and online businesses
+* I'm having a heck of a time hiring people in City X. It's not just the city, it's also the neighborhood or suburb location that can prevent your ability to hire good people.
+* Expanding your employment hiring pool is one of the biggest benefits of remote work.
+* A more flexible work schedule for all employees is another benefit of remote work.
+* Public transportation may be accessible to many parts of a city, but it's not the same as being convenient or efficient.
+* The difference between hiring the 'best person for the job, period' vs 'best person within proximity' is likely very big.
+* Hiring remote allows you the ability to hire the best person for the money vs using distance and location as factors of concern.
+* Not everyone is wired eight straight hours a day, but an office envionment forces the 9-5 schedule, which may not be optimal.
+* A business that runs 24/7 then has issues where it time-boxes the administration schedule but operations need more flexibility.
+* It's on a manager to reconcile the different work cycles of people on their teams.
+* Remote works best when on-site folks are instructed to meet remotely instead of in-person.
+* Remote employees are always at a disadvantage when a team tries to combine in-person and offsite communications in the same meeting.
+* Communication balance is a responsibility of the manager.
+* A very important issue is the working conditions or environment of the remote team member.
+* A dedicated office space is a huge benefit for some remote workers.
+* It's on the manager to find out the experience level of the team member with remote work and whether they have a good work environment to be productive.
+* Coffee shop noise in the background can distract everyone on a conference call.
+* For people entering the tech dev or information field, remote work may not be as advantageous.
+* It may be your goal to work remote one day, but don't fail to consider that there is an advantage of being in front of people that will teach you things or promote faster based on who is in front of them or at the top of their mind.
+* Networking, politics, and learning are harder to achieve in a remote job.
+* If you won't hire remote workers, make sure you say this outloud when you complain: "I am having trouble hiring good people ... that will commute to my part of town."
+* Mental health is a big consideration for remote workers. Loneliness, depression, introvert vs extrovert and other feelings are important considerations.
+* It's important to know yourself when trying to decide on remote vs in-office
+* Don't confuse remote work with necessarily working from home.
+* Remote work needs to be executed differently based on people's personalities
 
 #### Links
 

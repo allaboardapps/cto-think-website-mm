@@ -1,6 +1,6 @@
 ---
 id: 12
-title: How to communicate when your product is on a roller coaster of uptime and downtime
+title: Communicating on a roller coaster of uptime and downtime
 date: 2018/03/07 1:00:00PM
 audio_file_name: cto_think_episode_0012.mp3
 soundcloud_id: 410271969

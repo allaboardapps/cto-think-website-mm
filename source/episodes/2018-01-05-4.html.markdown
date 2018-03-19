@@ -1,6 +1,6 @@
 ---
 id: 4
-title: What should a manager do about the Meltdown and Spectre exploits?
+title: Risk and Exploits - Dealing with Meltdown and Spectre
 date: 2018/01/05 06:00:00PM
 audio_file_name: cto_think_episode_0004.mp3
 soundcloud_id: 382183403

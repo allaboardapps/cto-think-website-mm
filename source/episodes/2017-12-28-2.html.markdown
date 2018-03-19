@@ -1,6 +1,6 @@
 ---
 id: 2
-title: Who should I hire to build an app?
+title: Hiring developers - Who should I hire to build an app?
 date: 2017/12/28 09:00:00AM
 audio_file_name: cto_think_episode_0002.mp3
 soundcloud_id: 382183394

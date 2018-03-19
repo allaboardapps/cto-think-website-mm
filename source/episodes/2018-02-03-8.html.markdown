@@ -1,6 +1,6 @@
 ---
 id: 8
-title: How do you choose between self, managed, cloud, or serverless hosting?
+title: Your hosting strategy - Choosing from self, managed, cloud, or serverless
 date: 2018/02/03 12:00:00PM
 audio_file_name: cto_think_episode_0008.mp3
 soundcloud_id: 393990927
