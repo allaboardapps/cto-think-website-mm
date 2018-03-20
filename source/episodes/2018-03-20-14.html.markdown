@@ -1,7 +1,7 @@
 ---
 id: 14
 title: You're so vain, you think in-office work is about you
-date: 2018/03/20 05:00:00AM
+date: 2018/03/20 12:01:00AM
 audio_file_name: cto_think_episode_0014.mp3
 soundcloud_id: 414445557
 soundcloud_link: 'http://feeds.soundcloud.com/stream/414445557-cto-think-episode-14-youre-so-vain-you-think-in-office-work-is-about-you.mp3'
