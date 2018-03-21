@@ -1,5 +1,4 @@
 /*
-  default-src 'none'; font-src 'self';img-src 'self' https://*.cloudfront.net; object-src 'none'; script-src 'self' https://widget.sndcdn.com; style-src 'self' https://*.cloudfront.net
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
