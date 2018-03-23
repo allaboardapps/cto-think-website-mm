@@ -1,0 +1,46 @@
+---
+id: 15
+title: Non-Disclosures, Non-Competes, and Non-Gonna-Sign-Its
+date: 2018/03/27 5:00:00AM
+audio_file_name: cto_think_episode_0015.mp3
+soundcloud_id: 414445557
+soundcloud_link: 'http://feeds.soundcloud.com/stream/414445557-cto-think-episode-15.mp3'
+duration: '00:01:01'
+file_size_bytes: 1
+file_type: audio/mpeg
+keywords: non-compete, legal, non-disclosure, NDA, NCA, illegal, attorney, contract, employment, cto, chief technology officer
+short_description: Should you sign non-compete or non-disclosure agreements? Are these kinds of contracts binding? Are they even useful for your business? We discuss everything from saying "heck, no," to turning the ask into an initial business agreement test.
+explicit: no
+block: no
+published: false
+featuring: 'Randy Burgess, Don VanDemark'
+---
+Should you sign non-compete or non-disclosure agreements? Are these kinds of contracts binding? Are they even useful for your business? We discuss everything from saying "heck, no," to turning the ask into an initial business agreement test.
+READMORE
+
+#### Notes
+
+* Apologies to Carly Simon for this episode's title.
+
+#### Links
+
+* [Twilio](https://www.twilio.com/)
+* [Sleep](https://en.wikipedia.org/wiki/Sleep)
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
