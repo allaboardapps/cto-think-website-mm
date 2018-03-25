@@ -1,12 +1,12 @@
 ---
 id: 15
-title: Non-Disclosures, Non-Competes, and Non-Gonna-Sign-Its
+title: Non-Disclosures, Non-Competes, No Way?
 date: 2018/03/27 5:00:00AM
 audio_file_name: cto_think_episode_0015.mp3
-soundcloud_id: 414445557
-soundcloud_link: 'http://feeds.soundcloud.com/stream/414445557-cto-think-episode-15.mp3'
-duration: '00:01:01'
-file_size_bytes: 1
+soundcloud_id: 419626612
+soundcloud_link: 'http://feeds.soundcloud.com/stream/419626612-cto-think-episode-15-non-disclosures-non-competes-no-way.mp3'
+duration: '00:48:15'
+file_size_bytes: 57031832
 file_type: audio/mpeg
 keywords: non-compete, legal, non-disclosure, NDA, NCA, illegal, attorney, contract, employment, cto, chief technology officer
 short_description: Should you sign non-compete or non-disclosure agreements? Are these kinds of contracts binding? Are they even useful for your business? We discuss everything from saying "heck, no," to turning the ask into an initial business agreement test.
@@ -20,9 +20,55 @@ READMORE
 
 #### Notes
 
-* Apologies to Carly Simon for this episode's title.
+* We aren't attorneys and any statements related to the legal side of the NDA/NCA debate should be discussed with one.
+* The algorithm a firm uses may be custom and considered protective property and they want an agreement with employees to prevent its release
+* The NDA protects the knowledge; The NCA protects the experience
+* You may be beholden to a contract between an employer and their client, but you didn't actually sign an agreement
+* California has a reputation with Non-compete agreements because of the Silcon Valley history with employment lawsuits
+* These types of agreements have a reputation for being difficult to enforce
+* Laws like these are created to help the well-behaved people stay behaved. Bad actors will still misbehave.
+* An NDA is one way for a firm to tell you "this is knowledge that is important to us"
+* I have never signed the first draft of an NDA provided to me
+* Using empathy, a startup founder is learning how to run a business, take an idea and make it a reality
+* There are people in the ear of the founder telling them to get an NDA signed by anyone they speak with
+* Founders often think that the idea is more important than the execution
+* There's a fear that talking to a developer, someone that can execute, is of higher risk than talking to someone else
+* The business leader doesn't trust you, yet, because they have no reason to
+* The contract issuer is attempting to engage with you on a business agreement of some kind, which is what you're trying to do anyways
+* Consider not rejecting the NDA at the outset; instead, consider engaging with the other person to gauge their business acumen and communication skills
+* If the agreement document is significantly long, ask them to pay for an attorney to review the document
+* If the document is short, review and redline it and teach the person where there are issues
+* Let the contract issuer to know how their document may not even work
+* Aim for a discussion to ensue where both parties can get to know each other and about business-level items, constructive criticism, and see how they deal with feedback
+* Have a conversation about business trust as soon as possible. A proposed NDA or NCA is an opportunity to do that.
+* Saying "never" about business practices is a pretty broad statement, anyways
+* Set a precendent about the NDA/NCA and don't leave the issuer hanging on why you're hesitating to sign
+* Regardless of any agreement or lack thereof, don't disclose the private and strategic information about firms for which you work
+* Non-disclosure should be part of your business practice regardless of any agreement you have or have not signed
+* Developers tend to have greater access to both tech secrets and data secrets, which can have a big impact on firms
+* Someone without much leverage, like a job-seeker may have less ability to push back
+* Pay attention to how broad a market the document is trying to cover
+* Feel free to ask questions about the document at the very least
+* Seek outside advice, such as an attorney, who can help explain how an agreement may affect you
+* What is the scope of the document from a proximity: The world, the country, the city?
+* How much of the marketplace does the document cover or is it just a niche?
+* Does the document describe the penalities involved in a breach?
+* What is the length of time for the enforcement for the contract?
+* What happens if the employment fails after one month? Can you live with the terms even in that scenario?
+* If someone gives you an NDA/NCA before a meeting and won't give you the time to read it completely before signing, you should refuse to sign it
+* Everyone deserves the time to review a legal agreement, regardless of employment leverage
+* If listeners have an opinion or question about this subject, let us know at hello@ctothink.com
 
 #### Links
+
+* [Lobste.rs Comments on Why I Refuse to Sign Non Compete Agreements](https://lobste.rs/s/nddqqr/why_i_refuse_sign_non_compete_agreements)
+* [Radio City Stage Door Tour](https://www.rockefellercenter.com/shops/radio-city-stage-door-tour/)
+* [Lobsters](https://lobste.rs)
+* [Uber vs Waymo](https://en.wikipedia.org/wiki/Waymo#Waymo_LLC_v._Uber_Technologies,_Inc._et_al.)
+* [High-Tech Employee Antitrust Litigation](https://en.wikipedia.org/wiki/High-Tech_Employee_Antitrust_Litigation)
+* [Greg Baugues at Twilio](https://www.linkedin.com/in/gregbaugues)
+
+#### Recommendations
 
 * [Twilio](https://www.twilio.com/)
 * [Sleep](https://en.wikipedia.org/wiki/Sleep)
