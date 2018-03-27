@@ -1,7 +1,7 @@
 ---
 id: 15
 title: Non-Disclosures, Non-Competes, No Way?
-date: 2018/03/27 5:00:00AM
+date: 2018/03/27 4:00:00AM
 audio_file_name: cto_think_episode_0015.mp3
 soundcloud_id: 419626612
 soundcloud_link: 'http://feeds.soundcloud.com/stream/419626612-cto-think-episode-15-non-disclosures-non-competes-no-way.mp3'
@@ -12,7 +12,7 @@ keywords: non-compete, legal, non-disclosure, NDA, NCA, illegal, attorney, contr
 short_description: Should you sign non-compete or non-disclosure agreements? Are these kinds of contracts binding? Are they even useful for your business? We discuss everything from saying "heck, no," to turning the ask into an initial business agreement test.
 explicit: no
 block: no
-published: false
+published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
 Should you sign non-compete or non-disclosure agreements? Are these kinds of contracts binding? Are they even useful for your business? We discuss everything from saying "heck, no," to turning the ask into an initial business agreement test.
