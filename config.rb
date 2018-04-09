@@ -4,7 +4,7 @@ Time.zone = "America/New_York"
 
 # redirect "/rss2.xml", to: "/rss.xml"
 
-import_file File.expand_path("_headers", root), "_headers"
+# import_file File.expand_path("_headers", root), "_headers"
 
 # Global Variables
 set :site_description, "A pragmatic podcast about leadership, product dev, and tech decisions between two recovering Chief Technology Officers."
