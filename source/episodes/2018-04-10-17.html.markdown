@@ -1,0 +1,62 @@
+---
+id: 17
+title: Identity Heft, Part 1
+date: 2018/04/10 1:00:00AM
+audio_file_name: cto_think_episode_0017.mp3
+soundcloud_id: 426811182
+soundcloud_link: 'http://feeds.soundcloud.com/stream/426811182-cto-think-episode-17-identity-heft.mp3'
+duration: '00:48:40'
+file_size_bytes: 57517775
+file_type: audio/mpeg
+keywords: identity, auth, authentication, authorization, password managers, usernames, 1Password, Auth0, LastPass, Okta
+short_description: With hacking, data security, and privacy as huge issues in the press, we discuss how we approach identity management on both products and across our teams
+explicit: no
+block: no
+published: true
+featuring: 'Randy Burgess, Don VanDemark'
+---
+Where do you draw the line on ethics? How do you take a stand when you want to keep your job? This week, we discuss ethical behavior and the responsibility people have regarding it.
+READMORE
+
+#### Notes
+
+* We've started a new podcast! Check out [This Old App](https://thisoldapp.online) and subscribe!
+* This Old App is more of a grab-bag of in-depth technical discussion, more details, more guests, less structure. (more fun?)
+* Firebase has an authentication feature built-in for folks using the service
+* The auth piece of an MVP product is something that should not be done half-assed
+* Professional authentication/authorization is something every startup should take seriously, especially at the beginning
+* Often auth systems are stuck in a bad place because nobody wants to make major changes to the user auth workflow
+
+#### Links
+
+* [This Old App](https://thisoldapp.online)
+* [Transistor.fm](https://transistor.fm)
+* [Ask HN: What are folks using for identity management?](https://news.ycombinator.com/item?id=16700544)
+* [Identity-as-a-Service in 2018: What's New?](https://lobste.rs/s/q3ivos/identity_as_service_2018_what_s_new)
+* [Devise](https://github.com/plataformatec/devise)
+* [Passport](http://www.passportjs.org/)
+* [OAuth 2.0](https://oauth.net/2/)
+* [Auth0](https://auth0.com)
+* [Okta](https://www.okta.com)
+* [Firebase Authentication](https://firebase.google.com/products/auth/)
+* [Amazon Cognito](https://aws.amazon.com/cognito/)
+* [LastPass](https://www.lastpass.com/)
+* [1Password](https://1password.com/)
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
