@@ -1,9 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.0.6)
+    activesupport (5.0.7)
       concurrent-ruby (~> 1.0, >= 1.0.2)
-      i18n (~> 0.7)
+      i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     addressable (2.5.2)
@@ -103,7 +103,7 @@ GEM
     parallel (1.12.1)
     public_suffix (3.0.2)
     rack (2.0.4)
-    rack-livereload (0.3.16)
+    rack-livereload (0.3.17)
       rack
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
@@ -135,7 +135,7 @@ DEPENDENCIES
   nokogiri (= 1.8.2)
 
 RUBY VERSION
-   ruby 2.4.3p205
+   ruby 2.4.4p296
 
 BUNDLED WITH
    1.16.1

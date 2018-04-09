@@ -26,6 +26,7 @@ READMORE
 * The auth piece of an MVP product is something that should not be done half-assed
 * Professional authentication/authorization is something every startup should take seriously, especially at the beginning
 * Often auth systems are stuck in a bad place because nobody wants to make major changes to the user auth workflow
+* When you're an admin on so many services, you have a higher level of responsibility to be secure-minded with all of your credentials
 
 #### Links
 
