@@ -15,7 +15,7 @@ block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-Where do you draw the line on ethics? How do you take a stand when you want to keep your job? This week, we discuss ethical behavior and the responsibility people have regarding it.
+With hacking, data security, and privacy as huge issues in the press, we discuss how we approach identity management on both products and across our teams.
 READMORE
 
 #### Notes
