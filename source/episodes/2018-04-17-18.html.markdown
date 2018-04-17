@@ -15,7 +15,7 @@ block: no
 published: true
 featuring: 'Randy Burgess, Don VanDemark'
 ---
-With hacking, data security, and privacy as huge issues in the press, we discuss how we approach identity management on both products and across our teams.
+There are a lot of factors tech managers need to consider when inheriting or choosing a technology stack. We talk about how we chose specific stacks in the past (or didn't) and why we're using a brand new one for a side project.
 READMORE
 
 #### Links
