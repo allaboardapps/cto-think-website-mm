@@ -1,0 +1,77 @@
+---
+id: 18
+title: Choosing a Tech Stack
+date: 2018/04/17 1:00:00AM
+audio_file_name: cto_think_episode_0018.mp3
+soundcloud_id: 430820805
+soundcloud_link: 'http://feeds.soundcloud.com/stream/430820805-cto-think-cto-think-episode-0018.mp3'
+duration: '00:48:40'
+file_size_bytes: 57517775
+file_type: audio/mpeg
+keywords: stack, LAMP, MAMP, Ruby on Rails, Linux, MySQL, PostgreSQL, MongoDB, NoSQL, SQL, Python, Django, JavaScript, Node, Firebase
+short_description: There are a lot of factors tech managers need to consider when inheriting or choosing a technology stack. We talk about how we chose specific stacks in the past (or didn't) and why we're using a brand new one for a side project.
+explicit: no
+block: no
+published: true
+featuring: 'Randy Burgess, Don VanDemark'
+---
+With hacking, data security, and privacy as huge issues in the press, we discuss how we approach identity management on both products and across our teams.
+READMORE
+
+#### Links
+
+* [This Old App](https://thisoldapp.online)
+* [This Old App, Episode 1 - The Intro!](https://thisoldapp.online/episodes/the-intro)
+* [This Old App, Episode 2 - Learning JavaScript (Better)](https://thisoldapp.online/episodes/learning-javascript-better)
+* [This Old App, Episode 3 - Learning CSS Grid with Megan Schemmel](https://thisoldapp.online/episodes/learning-css-grid)
+* [Transistor.fm](https://transistor.fm) - Our This Old App podcast hosting service
+* [Node.js](https://nodejs.org/)
+* [Express.js](https://expressjs.com/)
+* [Firebase](https://firebase.google.com/)
+* [Microsoft](https://www.microsoft.com)
+* [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+* [ASP.Net](https://www.asp.net/)
+* [Microsoft Office](https://www.office.com/)
+* [LAMP = Linux, Apache, MySQL, PHP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
+* [Mac](https://www.apple.com/macbook/)
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Ruby on Rails](http://rubyonrails.org/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Python](https://www.python.org/)
+* [MongoDB](https://www.mongodb.com/)
+
+#### Notes
+
+* We've started a new podcast! Check out [This Old App](https://thisoldapp.online) and subscribe!
+* We chose the Node, Express, Firebase stack for a new project we're working on
+* The first question most CTOs ask is "What pieces of a stack do we have already?"
+* The old phrase "Nobody gets fired for IBM" later became "Nobody gets fired for choosing Microsoft"
+* Open source stacks come with some risk.
+* The people maintaining libraries in an open source stack can just quit, and you can't do anything about it.
+* A big part of choosing a stack is the development community that comes along with it.
+* Regional development and proximity of developers for a stack can be a factor for what people choose.
+* Your personal laptop is part of the stack. You need to be able to use the stack of choice from anywhere.
+* Where you can source developers or the best hires available can drive a big part of the tech stack decision.
+* A tech leader should probably make a tech stack choice based on what the team members know, not what the manager knows.
+* It's a bit selfish to force a company to switch tech stacks simply because a new CTO knows a different stack.
+* Python has really taken off because the data analysis piece is such a strong part of the stack
+* The lack of stability of stack development can be an issue, such as the issues with Python 2/3 or Node.js/io.js.
+* A big part of your choice is whether the companies maintaining the stack have a financial incentive to do so.
+
+#### Closing
+
+Thanks for listening to the [CTO Think](https://www.ctothink.com) Podcast.  
+
+Shownotes and previous episodes can be found on our website at [www.ctothink.com](https://www.ctothink.com/)  
+
+[Reviews on Apple iTunes](https://itunes.apple.com/us/podcast/cto-think/id1331281544) are always appreciated and help promote the show.  
+
+[Patreon contributions](https://www.patreon.com/ctothink) help us to produce transcripts, which allow people that are deaf or hard-of-hearing to access the show.  
+
+For questions, comments, or things you'd like to hear on future shows, please email us at [hello@ctothink.com](mailto:hello@ctothink.com)  
+
+Show music is Dumpster Dive by [Marc Walloch](http://marcwalloch.com/), licensed by [PremiumBeat.com](https://www.premiumbeat.com)  
+
+Voiceover work by [MeganVoices.com](http://www.meganvoices.com)  
+
+You'll hear from us next week!  
