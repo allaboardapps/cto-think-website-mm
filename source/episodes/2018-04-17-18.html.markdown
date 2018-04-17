@@ -1,7 +1,7 @@
 ---
 id: 18
 title: Choosing a Tech Stack
-date: 2018/04/17 1:00:00AM
+date: 2018/04/17 12:05:00AM
 audio_file_name: cto_think_episode_0018.mp3
 soundcloud_id: 430820805
 soundcloud_link: 'http://feeds.soundcloud.com/stream/430820805-cto-think-cto-think-episode-0018.mp3'
@@ -52,7 +52,7 @@ READMORE
 * Regional development and proximity of developers for a stack can be a factor for what people choose.
 * Your personal laptop is part of the stack. You need to be able to use the stack of choice from anywhere.
 * Where you can source developers or the best hires available can drive a big part of the tech stack decision.
-* A tech leader should probably make a tech stack choice based on what the team members know, not what the manager knows.
+* A tech leader should make a tech stack choice based on what the team members know, not what they personally know.
 * It's a bit selfish to force a company to switch tech stacks simply because a new CTO knows a different stack.
 * Python has really taken off because the data analysis piece is such a strong part of the stack
 * The lack of stability of stack development can be an issue, such as the issues with Python 2/3 or Node.js/io.js.
