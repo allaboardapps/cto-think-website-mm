@@ -26,6 +26,7 @@ set :linkedin_url, "https://https://www.linkedin.com/company/ctothink/"
 set :twitter_url, "https://twitter.com/ctothink"
 set :twitter_handle, "@ctothink"
 set :site_phone_number, "+1-773-551-6808"
+set :google_site_verification, "qHC18pB0FB5ToYHGuRzow4gZJc5nVcMO9nwx8-nJKHM"
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
