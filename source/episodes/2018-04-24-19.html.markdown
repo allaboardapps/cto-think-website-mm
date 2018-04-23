@@ -33,6 +33,10 @@ READMORE
 * A benefit of networking is hearing about other people's mistakes and then not following in those mistakes. People are a lot more frank about failures when talking in-person.
 * Having someone vouch for you is a big difference for getting past anonymous screening processes.
 * Going to a meetup is much less about the topic being discussed and more about visiting an office you've never set foot in before, meeting other people, and not needing to talk to other folks the whole time.
+* Taking someone else with you as a wingperson is one tactic for getting used to attending meetups. Your friend doesn't need to care a bit about the meetup to help!
+* You don't need to stay for the whole meetup, if you attend. Truth is that if you show up and decide you need to leave, nobody should make you feel bad about taking off.
+* Volunteering for a conference can help you meet people in a purposeful fashion compared to randomly trying to talk to people.
+* A hackathon is not truly about coding all day. It's about putting groups of people together to try and build prototypes and solutions with a spark that could carry on later.
 
 #### Closing
 
