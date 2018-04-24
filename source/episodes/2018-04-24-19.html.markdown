@@ -1,7 +1,7 @@
 ---
 id: 19
 title: Networking for Introverts
-date: 2018/04/24 12:05:00AM
+date: 2018/04/24 07:05:00AM
 audio_file_name: cto_think_episode_0019.mp3
 soundcloud_id: 433675545
 soundcloud_link: 'http://feeds.soundcloud.com/stream/433675545-cto-think-episode-19-networking-for-introverts.mp3'
